@@ -1,0 +1,556 @@
+Player,Date,OPP,Result,CMP,ATT,YDS,CMP.,AVG,TD,INT,LNG,SACK,RTG,QBR,GameLink,id,TeamsLong
+Deshaun Watson,Sun 1/3,vsTEN,L41-38,28,39,365,71.8,9.4,3,1,42,4,115.9,61.2,https://www.espn.com/nfl/game/_/gameId/401220180,Deshaun WatsonHOU_Sun 1/3,Houston Texans
+Deshaun Watson,Sun 12/27,vsCIN,L37-31,24,33,324,72.7,9.8,3,0,50,1,133.9,70.1,https://www.espn.com/nfl/game/_/gameId/401220182,Deshaun WatsonHOU_Sun 12/27,Houston Texans
+Deshaun Watson,Sun 12/20,@IND,L27-20,33,41,373,80.5,9.1,2,0,38,5,120.8,80.5,https://www.espn.com/nfl/game/_/gameId/401220186,Deshaun WatsonHOU_Sun 12/20,Houston Texans
+Deshaun Watson,Sun 12/13,@CHI,L36-7,21,30,219,70.0,7.3,1,0,48,6,101.9,59.7,https://www.espn.com/nfl/game/_/gameId/401220279,Deshaun WatsonHOU_Sun 12/13,Houston Texans
+Deshaun Watson,Sun 12/6,vsIND,L26-20,26,38,341,68.4,9.0,0,1,64,5,85.5,41.1,https://www.espn.com/nfl/game/_/gameId/401220178,Deshaun WatsonHOU_Sun 12/6,Houston Texans
+Deshaun Watson,Thu 11/26,@DET,W41-25,17,25,318,68.0,12.7,4,0,40,2,150.4,87.8,https://www.espn.com/nfl/game/_/gameId/401220287,Deshaun WatsonHOU_Thu 11/26,Houston Texans
+Deshaun Watson,Sun 11/22,vsNE,W27-20,28,37,344,75.7,9.3,2,0,44,0,121.9,87.7,https://www.espn.com/nfl/game/_/gameId/401220185,Deshaun WatsonHOU_Sun 11/22,Houston Texans
+Deshaun Watson,Sun 11/15,@CLE,L10-7,20,30,163,66.7,5.4,1,0,29,2,91.4,50.5,https://www.espn.com/nfl/game/_/gameId/401220165,Deshaun WatsonHOU_Sun 11/15,Houston Texans
+Deshaun Watson,Sun 11/8,@JAX,W27-25,19,32,281,59.4,8.8,2,0,77,2,109.0,68.8,https://www.espn.com/nfl/game/_/gameId/401220194,Deshaun WatsonHOU_Sun 11/8,Houston Texans
+Deshaun Watson,Sun 10/25,vsGB,L35-20,29,39,309,74.4,7.9,2,0,30,3,114.2,69.2,https://www.espn.com/nfl/game/_/gameId/401220183,Deshaun WatsonHOU_Sun 10/25,Houston Texans
+Deshaun Watson,Sun 10/18,@TEN,L42-36 OT,28,37,335,75.7,9.1,4,0,53,2,138.9,93.6,https://www.espn.com/nfl/game/_/gameId/401220202,Deshaun WatsonHOU_Sun 10/18,Houston Texans
+Deshaun Watson,Sun 10/11,vsJAX,W30-14,25,35,359,71.4,10.3,3,2,44,1,109.1,76.8,https://www.espn.com/nfl/game/_/gameId/401220179,Deshaun WatsonHOU_Sun 10/11,Houston Texans
+Deshaun Watson,Sun 10/4,vsMIN,L31-23,20,33,300,60.6,9.1,2,0,43,3,110.7,37.4,https://www.espn.com/nfl/game/_/gameId/401220184,Deshaun WatsonHOU_Sun 10/4,Houston Texans
+Deshaun Watson,Sun 9/27,@PIT,L28-21,19,27,264,70.4,9.8,2,1,34,5,110.7,85.6,https://www.espn.com/nfl/game/_/gameId/401220173,Deshaun WatsonHOU_Sun 9/27,Houston Texans
+Deshaun Watson,Sun 9/20,vsBAL,L33-16,25,36,275,69.4,7.6,1,1,38,4,89.5,58.3,https://www.espn.com/nfl/game/_/gameId/401220181,Deshaun WatsonHOU_Sun 9/20,Houston Texans
+Deshaun Watson,Thu 9/10,@KC,L34-20,20,32,253,62.5,7.9,1,1,31,4,84.5,46.2,https://www.espn.com/nfl/game/_/gameId/401220225,Deshaun WatsonHOU_Thu 9/10,Houston Texans
+Patrick Mahomes,Sun 12/27,vsATL,W17-14,24,44,278,54.5,6.3,2,1,31,0,79.5,67.5,https://www.espn.com/nfl/game/_/gameId/401220223,Patrick MahomesKC_Sun 12/27,Kansas City Chiefs
+Patrick Mahomes,Sun 12/20,@NO,W32-29,26,47,254,55.3,5.4,3,0,23,4,92.0,74.9,https://www.espn.com/nfl/game/_/gameId/401220325,Patrick MahomesKC_Sun 12/20,Kansas City Chiefs
+Patrick Mahomes,Sun 12/13,@MIA,W33-27,24,34,393,70.6,11.6,2,3,44,3,91.9,68.5,https://www.espn.com/nfl/game/_/gameId/401220125,Patrick MahomesKC_Sun 12/13,Kansas City Chiefs
+Patrick Mahomes,Sun 12/6,vsDEN,W22-16,25,40,318,62.5,8.0,1,0,30,1,95.6,80.5,https://www.espn.com/nfl/game/_/gameId/401220218,Patrick MahomesKC_Sun 12/6,Kansas City Chiefs
+Patrick Mahomes,Sun 11/29,@TB,W27-24,37,49,462,75.5,9.4,3,0,75,2,124.7,91.5,https://www.espn.com/nfl/game/_/gameId/401220333,Patrick MahomesKC_Sun 11/29,Kansas City Chiefs
+Patrick Mahomes,Sun 11/22,@LV,W35-31,34,45,348,75.6,7.7,2,1,22,0,102.8,89.7,https://www.espn.com/nfl/game/_/gameId/401220227,Patrick MahomesKC_Sun 11/22,Kansas City Chiefs
+Patrick Mahomes,Sun 11/8,vsCAR,W33-31,30,45,372,66.7,8.3,4,0,44,2,121.7,81.5,https://www.espn.com/nfl/game/_/gameId/401220224,Patrick MahomesKC_Sun 11/8,Kansas City Chiefs
+Patrick Mahomes,Sun 11/1,vsNYJ,W35-9,31,42,416,73.8,9.9,5,0,41,0,144.4,91.3,https://www.espn.com/nfl/game/_/gameId/401220222,Patrick MahomesKC_Sun 11/1,Kansas City Chiefs
+Patrick Mahomes,Sun 10/25,@DEN,W43-16,15,23,200,65.2,8.7,1,0,38,3,107.2,44.9,https://www.espn.com/nfl/game/_/gameId/401220210,Patrick MahomesKC_Sun 10/25,Kansas City Chiefs
+Patrick Mahomes,Mon 10/19,@BUF,W26-17,21,26,225,80.8,8.7,2,0,37,1,128.4,85.9,https://www.espn.com/nfl/game/_/gameId/401220117,Patrick MahomesKC_Mon 10/19,Kansas City Chiefs
+Patrick Mahomes,Sun 10/11,vsLV,L40-32,22,43,340,51.2,7.9,2,1,37,3,83.5,70.2,https://www.espn.com/nfl/game/_/gameId/401220219,Patrick MahomesKC_Sun 10/11,Kansas City Chiefs
+Patrick Mahomes,Mon 10/5,vsNE,W26-10,19,29,236,65.5,8.1,2,0,45,1,113.6,55.5,https://www.espn.com/nfl/game/_/gameId/401220221,Patrick MahomesKC_Mon 10/5,Kansas City Chiefs
+Patrick Mahomes,Mon 9/28,@BAL,W34-20,31,42,385,73.8,9.2,4,0,49,0,133.5,98.5,https://www.espn.com/nfl/game/_/gameId/401220153,Patrick MahomesKC_Mon 9/28,Kansas City Chiefs
+Patrick Mahomes,Sun 9/20,@LAC,W23-20 OT,27,47,302,57.4,6.4,2,0,54,1,90.9,83.8,https://www.espn.com/nfl/game/_/gameId/401220235,Patrick MahomesKC_Sun 9/20,Kansas City Chiefs
+Patrick Mahomes,Thu 9/10,vsHOU,W34-20,24,32,211,75.0,6.6,3,0,19,1,123.3,85.0,https://www.espn.com/nfl/game/_/gameId/401220225,Patrick MahomesKC_Thu 9/10,Kansas City Chiefs
+Tom Brady,Sun 1/3,vsATL,W44-27,26,41,399,63.4,9.7,4,1,47,1,117.8,79.2,https://www.espn.com/nfl/game/_/gameId/401220328,Tom BradyTB_Sun 1/3,Tampa Bay Buccaneers
+Tom Brady,Sat 12/26,@DET,W47-7,22,27,348,81.5,12.9,4,0,47,1,158.3,98.4,https://www.espn.com/nfl/game/_/gameId/401220286,Tom BradyTB_Sat 12/26,Tampa Bay Buccaneers
+Tom Brady,Sun 12/20,@ATL,W31-27,31,45,390,68.9,8.7,2,0,46,3,110.4,65.5,https://www.espn.com/nfl/game/_/gameId/401220308,Tom BradyTB_Sun 12/20,Tampa Bay Buccaneers
+Tom Brady,Sun 12/13,vsMIN,W26-14,15,23,196,65.2,8.5,2,0,48,0,120.9,82.3,https://www.espn.com/nfl/game/_/gameId/401220332,Tom BradyTB_Sun 12/13,Tampa Bay Buccaneers
+Tom Brady,Sun 11/29,vsKC,L27-24,27,41,345,65.9,8.4,3,2,48,1,96.1,60.9,https://www.espn.com/nfl/game/_/gameId/401220333,Tom BradyTB_Sun 11/29,Tampa Bay Buccaneers
+Tom Brady,Mon 11/23,vsLAR,L27-24,26,48,216,54.2,4.5,2,2,18,1,62.5,56.3,https://www.espn.com/nfl/game/_/gameId/401220335,Tom BradyTB_Mon 11/23,Tampa Bay Buccaneers
+Tom Brady,Sun 11/15,@CAR,W46-23,28,39,341,71.8,8.7,3,0,44,1,124.0,91.5,https://www.espn.com/nfl/game/_/gameId/401220368,Tom BradyTB_Sun 11/15,Tampa Bay Buccaneers
+Tom Brady,Sun 11/8,vsNO,L38-3,22,38,209,57.9,5.5,0,3,22,3,40.4,5.7,https://www.espn.com/nfl/game/_/gameId/401220330,Tom BradyTB_Sun 11/8,Tampa Bay Buccaneers
+Tom Brady,Mon 11/2,@NYG,W25-23,28,40,279,70.0,7.0,2,0,25,2,106.1,86.5,https://www.espn.com/nfl/game/_/gameId/401220257,Tom BradyTB_Mon 11/2,Tampa Bay Buccaneers
+Tom Brady,Sun 10/25,@LV,W45-20,33,45,369,73.3,8.2,4,0,35,0,127.0,87.6,https://www.espn.com/nfl/game/_/gameId/401220232,Tom BradyTB_Sun 10/25,Tampa Bay Buccaneers
+Tom Brady,Sun 10/18,vsGB,W38-10,17,27,166,63.0,6.1,2,0,31,0,104.9,96.4,https://www.espn.com/nfl/game/_/gameId/401220331,Tom BradyTB_Sun 10/18,Tampa Bay Buccaneers
+Tom Brady,Thu 10/8,@CHI,L20-19,25,41,253,61.0,6.2,1,0,35,3,86.7,49.5,https://www.espn.com/nfl/game/_/gameId/401220278,Tom BradyTB_Thu 10/8,Tampa Bay Buccaneers
+Tom Brady,Sun 10/4,vsLAC,W38-31,30,46,369,65.2,8.0,5,1,48,0,117.0,86.4,https://www.espn.com/nfl/game/_/gameId/401220334,Tom BradyTB_Sun 10/4,Tampa Bay Buccaneers
+Tom Brady,Sun 9/27,@DEN,W28-10,25,38,297,65.8,7.8,3,0,47,2,115.8,49.3,https://www.espn.com/nfl/game/_/gameId/401220216,Tom BradyTB_Sun 9/27,Tampa Bay Buccaneers
+Tom Brady,Sun 9/20,vsCAR,W31-17,23,35,217,65.7,6.2,1,1,50,0,80.3,44.8,https://www.espn.com/nfl/game/_/gameId/401220329,Tom BradyTB_Sun 9/20,Tampa Bay Buccaneers
+Tom Brady,Sun 9/13,@NO,L34-23,23,36,239,63.9,6.6,2,2,37,3,78.4,40.3,https://www.espn.com/nfl/game/_/gameId/401220369,Tom BradyTB_Sun 9/13,Tampa Bay Buccaneers
+Matt Ryan,Sun 1/3,@TB,L44-27,29,44,265,65.9,6.0,2,0,26,1,97.3,76.8,https://www.espn.com/nfl/game/_/gameId/401220328,Matt RyanATL_Sun 1/3,Atlanta Falcons
+Matt Ryan,Sun 12/27,@KC,L17-14,27,35,300,77.1,8.6,2,0,54,4,121.1,81.5,https://www.espn.com/nfl/game/_/gameId/401220223,Matt RyanATL_Sun 12/27,Atlanta Falcons
+Matt Ryan,Sun 12/20,vsTB,L31-27,34,49,356,69.4,7.3,3,0,33,3,110.6,73.2,https://www.espn.com/nfl/game/_/gameId/401220308,Matt RyanATL_Sun 12/20,Atlanta Falcons
+Matt Ryan,Sun 12/13,@LAC,L20-17,21,32,224,65.6,7.0,1,3,35,2,57.3,39.4,https://www.espn.com/nfl/game/_/gameId/401220239,Matt RyanATL_Sun 12/13,Atlanta Falcons
+Matt Ryan,Sun 12/6,vsNO,L21-16,19,39,273,48.7,7.0,1,0,35,3,80.4,29.9,https://www.espn.com/nfl/game/_/gameId/401220307,Matt RyanATL_Sun 12/6,Atlanta Falcons
+Matt Ryan,Sun 11/29,vsLV,W43-6,22,39,185,56.4,4.7,2,1,17,1,75.3,28.9,https://www.espn.com/nfl/game/_/gameId/401220312,Matt RyanATL_Sun 11/29,Atlanta Falcons
+Matt Ryan,Sun 11/22,@NO,L24-9,19,37,232,51.4,6.3,0,2,46,8,48.5,23.1,https://www.espn.com/nfl/game/_/gameId/401220321,Matt RyanATL_Sun 11/22,Atlanta Falcons
+Matt Ryan,Sun 11/8,vsDEN,W34-27,25,35,284,71.4,8.1,3,1,51,2,112.1,94.6,https://www.espn.com/nfl/game/_/gameId/401220311,Matt RyanATL_Sun 11/8,Atlanta Falcons
+Matt Ryan,Thu 10/29,@CAR,W25-17,21,30,281,70.0,9.4,0,1,28,2,85.6,88.2,https://www.espn.com/nfl/game/_/gameId/401220314,Matt RyanATL_Thu 10/29,Atlanta Falcons
+Matt Ryan,Sun 10/25,vsDET,L23-22,31,42,338,73.8,8.0,1,0,28,2,105.1,83.5,https://www.espn.com/nfl/game/_/gameId/401220310,Matt RyanATL_Sun 10/25,Atlanta Falcons
+Matt Ryan,Sun 10/18,@MIN,W40-23,30,40,371,75.0,9.3,4,0,40,2,136.6,92.5,https://www.espn.com/nfl/game/_/gameId/401220301,Matt RyanATL_Sun 10/18,Atlanta Falcons
+Matt Ryan,Sun 10/11,vsCAR,L23-16,21,37,226,56.8,6.1,0,1,26,2,63.6,22.8,https://www.espn.com/nfl/game/_/gameId/401220306,Matt RyanATL_Sun 10/11,Atlanta Falcons
+Matt Ryan,Mon 10/5,@GB,L30-16,28,39,285,71.8,7.3,0,0,21,4,92.4,80.9,https://www.espn.com/nfl/game/_/gameId/401220293,Matt RyanATL_Mon 10/5,Atlanta Falcons
+Matt Ryan,Sun 9/27,vsCHI,L30-26,19,38,238,50.0,6.3,1,1,63,2,67.7,31.3,https://www.espn.com/nfl/game/_/gameId/401220309,Matt RyanATL_Sun 9/27,Atlanta Falcons
+Matt Ryan,Sun 9/20,@DAL,L40-39,24,36,273,66.7,7.6,4,0,42,1,126.3,89.8,https://www.espn.com/nfl/game/_/gameId/401220249,Matt RyanATL_Sun 9/20,Atlanta Falcons
+Matt Ryan,Sun 9/13,vsSEA,L38-25,37,54,450,68.5,8.3,2,1,44,2,98.5,67.8,https://www.espn.com/nfl/game/_/gameId/401220313,Matt RyanATL_Sun 9/13,Atlanta Falcons
+Josh Allen,Sun 1/3,vsMIA,W56-26,18,25,224,72.0,9.0,3,1,32,1,122.3,88.1,https://www.espn.com/nfl/game/_/gameId/401220114,Josh AllenBUF_Sun 1/3,Buffalo Bills
+Josh Allen,Mon 12/28,@NE,W38-9,27,36,320,75.0,8.9,4,0,50,0,138.7,97.5,https://www.espn.com/nfl/game/_/gameId/401220130,Josh AllenBUF_Mon 12/28,Buffalo Bills
+Josh Allen,Sat 12/19,@DEN,W48-19,28,40,359,70.0,9.0,2,0,55,1,114.5,98.1,https://www.espn.com/nfl/game/_/gameId/401220213,Josh AllenBUF_Sat 12/19,Buffalo Bills
+Josh Allen,Sun 12/13,vsPIT,W26-15,24,43,238,55.8,5.5,2,1,23,1,77.5,77.5,https://www.espn.com/nfl/game/_/gameId/401220121,Josh AllenBUF_Sun 12/13,Buffalo Bills
+Josh Allen,Mon 12/7,@SF,W34-24,32,40,375,80.0,9.4,4,0,35,1,139.1,77.4,https://www.espn.com/nfl/game/_/gameId/401220357,Josh AllenBUF_Mon 12/7,Buffalo Bills
+Josh Allen,Sun 11/29,vsLAC,W27-17,18,24,157,75.0,6.5,1,1,44,2,88.4,31.0,https://www.espn.com/nfl/game/_/gameId/401220118,Josh AllenBUF_Sun 11/29,Buffalo Bills
+Josh Allen,Sun 11/15,@ARI,L32-30,32,49,284,65.3,5.8,2,2,31,0,77.3,71.9,https://www.espn.com/nfl/game/_/gameId/401220341,Josh AllenBUF_Sun 11/15,Buffalo Bills
+Josh Allen,Sun 11/8,vsSEA,W44-34,31,38,415,81.6,10.9,3,0,39,7,138.5,81.0,https://www.espn.com/nfl/game/_/gameId/401220120,Josh AllenBUF_Sun 11/8,Buffalo Bills
+Josh Allen,Sun 11/1,vsNE,W24-21,11,18,154,61.1,8.6,0,1,41,1,65.5,43.1,https://www.espn.com/nfl/game/_/gameId/401220115,Josh AllenBUF_Sun 11/1,Buffalo Bills
+Josh Allen,Sun 10/25,@NYJ,W18-10,30,43,307,69.8,7.1,0,0,38,2,90.0,62.8,https://www.espn.com/nfl/game/_/gameId/401220138,Josh AllenBUF_Sun 10/25,Buffalo Bills
+Josh Allen,Mon 10/19,vsKC,L26-17,14,27,122,51.9,4.5,2,1,22,0,73.4,84.3,https://www.espn.com/nfl/game/_/gameId/401220117,Josh AllenBUF_Mon 10/19,Buffalo Bills
+Josh Allen,Tue 10/13,@TEN,L42-16,26,41,263,63.4,6.4,2,2,22,1,77.6,64.8,https://www.espn.com/nfl/game/_/gameId/401220209,Josh AllenBUF_Tue 10/13,Buffalo Bills
+Josh Allen,Sun 10/4,@LV,W30-23,24,34,288,70.6,8.5,2,0,49,1,115.8,91.5,https://www.espn.com/nfl/game/_/gameId/401220229,Josh AllenBUF_Sun 10/4,Buffalo Bills
+Josh Allen,Sun 9/27,vsLAR,W35-32,24,33,311,72.7,9.4,4,1,39,4,128.9,90.1,https://www.espn.com/nfl/game/_/gameId/401220119,Josh AllenBUF_Sun 9/27,Buffalo Bills
+Josh Allen,Sun 9/20,@MIA,W31-28,24,35,415,68.6,11.9,4,0,47,1,146.7,96.9,https://www.espn.com/nfl/game/_/gameId/401220122,Josh AllenBUF_Sun 9/20,Buffalo Bills
+Josh Allen,Sun 9/13,vsNYJ,W27-17,33,46,312,71.7,6.8,2,0,29,3,104.6,66.7,https://www.espn.com/nfl/game/_/gameId/401220116,Josh AllenBUF_Sun 9/13,Buffalo Bills
+Justin Herbert,Sun 1/3,@KC,W38-21,22,31,302,71.0,9.7,3,0,48,3,134.1,86.2,https://www.espn.com/nfl/game/_/gameId/401220220,Justin HerbertLAC_Sun 1/3,Los Angeles Chargers
+Justin Herbert,Sun 12/27,vsDEN,W19-16,21,33,253,63.6,7.7,1,0,29,2,97.2,58.1,https://www.espn.com/nfl/game/_/gameId/401220234,Justin HerbertLAC_Sun 12/27,Los Angeles Chargers
+Justin Herbert,Thu 12/17,@LV,W30-27 OT,22,32,314,68.8,9.8,2,0,53,1,121.1,84.9,https://www.espn.com/nfl/game/_/gameId/401220228,Justin HerbertLAC_Thu 12/17,Los Angeles Chargers
+Justin Herbert,Sun 12/13,vsATL,W20-17,36,44,243,81.8,5.5,2,1,25,1,95.4,77.2,https://www.espn.com/nfl/game/_/gameId/401220239,Justin HerbertLAC_Sun 12/13,Los Angeles Chargers
+Justin Herbert,Sun 12/6,vsNE,L45-0,26,53,209,49.1,3.9,0,2,24,3,43.7,9.2,https://www.espn.com/nfl/game/_/gameId/401220237,Justin HerbertLAC_Sun 12/6,Los Angeles Chargers
+Justin Herbert,Sun 11/29,@BUF,L27-17,31,52,316,59.6,6.1,1,1,55,3,75.5,46.6,https://www.espn.com/nfl/game/_/gameId/401220118,Justin HerbertLAC_Sun 11/29,Los Angeles Chargers
+Justin Herbert,Sun 11/22,vsNYJ,W34-28,37,49,366,75.5,7.5,3,0,54,3,116.5,91.2,https://www.espn.com/nfl/game/_/gameId/401220238,Justin HerbertLAC_Sun 11/22,Los Angeles Chargers
+Justin Herbert,Sun 11/15,@MIA,L29-21,20,32,187,62.5,5.8,2,1,28,2,86.3,46.7,https://www.espn.com/nfl/game/_/gameId/401220126,Justin HerbertLAC_Sun 11/15,Los Angeles Chargers
+Justin Herbert,Sun 11/8,vsLV,L31-26,28,42,326,66.7,7.8,2,0,50,2,105.9,40.0,https://www.espn.com/nfl/game/_/gameId/401220236,Justin HerbertLAC_Sun 11/8,Los Angeles Chargers
+Justin Herbert,Sun 11/1,@DEN,L31-30,29,43,278,67.4,6.5,3,2,36,2,89.1,85.4,https://www.espn.com/nfl/game/_/gameId/401220212,Justin HerbertLAC_Sun 11/1,Los Angeles Chargers
+Justin Herbert,Sun 10/25,vsJAX,W39-29,27,43,347,62.8,8.1,3,0,70,1,111.3,82.1,https://www.espn.com/nfl/game/_/gameId/401220241,Justin HerbertLAC_Sun 10/25,Los Angeles Chargers
+Justin Herbert,Mon 10/12,@NO,L30-27 OT,20,34,264,58.8,7.8,4,0,64,3,122.7,82.6,https://www.espn.com/nfl/game/_/gameId/401220326,Justin HerbertLAC_Mon 10/12,Los Angeles Chargers
+Justin Herbert,Sun 10/4,@TB,L38-31,20,25,290,80.0,11.6,3,1,72,2,137.9,83.9,https://www.espn.com/nfl/game/_/gameId/401220334,Justin HerbertLAC_Sun 10/4,Los Angeles Chargers
+Justin Herbert,Sun 9/27,vsCAR,L21-16,35,49,330,71.4,6.7,1,1,28,2,88.0,38.7,https://www.espn.com/nfl/game/_/gameId/401220240,Justin HerbertLAC_Sun 9/27,Los Angeles Chargers
+Justin Herbert,Sun 9/20,vsKC,L23-20 OT,22,33,311,66.7,9.4,1,1,35,2,94.4,72.0,https://www.espn.com/nfl/game/_/gameId/401220235,Justin HerbertLAC_Sun 9/20,Los Angeles Chargers
+Aaron Rodgers,Sun 1/3,@CHI,W35-16,19,24,240,79.2,10.0,4,0,72,1,147.9,93.4,https://www.espn.com/nfl/game/_/gameId/401220275,Aaron RodgersGB_Sun 1/3,Green Bay Packers
+Aaron Rodgers,Sun 12/27,vsTEN,W40-14,21,25,231,84.0,9.2,4,1,32,1,128.1,90.0,https://www.espn.com/nfl/game/_/gameId/401220296,Aaron RodgersGB_Sun 12/27,Green Bay Packers
+Aaron Rodgers,Sat 12/19,vsCAR,W24-16,20,29,143,69.0,4.9,1,0,22,5,91.6,62.7,https://www.espn.com/nfl/game/_/gameId/401220294,Aaron RodgersGB_Sat 12/19,Green Bay Packers
+Aaron Rodgers,Sun 12/13,@DET,W31-24,26,33,290,78.8,8.8,3,0,56,0,133.6,88.5,https://www.espn.com/nfl/game/_/gameId/401220283,Aaron RodgersGB_Sun 12/13,Green Bay Packers
+Aaron Rodgers,Sun 12/6,vsPHI,W30-16,25,34,295,73.5,8.7,3,0,42,2,128.9,73.4,https://www.espn.com/nfl/game/_/gameId/401220297,Aaron RodgersGB_Sun 12/6,Green Bay Packers
+Aaron Rodgers,Sun 11/29,vsCHI,W41-25,21,29,211,72.4,7.3,4,0,39,0,132.3,96.5,https://www.espn.com/nfl/game/_/gameId/401220290,Aaron RodgersGB_Sun 11/29,Green Bay Packers
+Aaron Rodgers,Sun 11/22,@IND,L34-31 OT,27,38,311,71.1,8.2,3,1,47,1,110.7,73.3,https://www.espn.com/nfl/game/_/gameId/401220191,Aaron RodgersGB_Sun 11/22,Green Bay Packers
+Aaron Rodgers,Sun 11/15,vsJAX,W24-20,24,34,325,70.6,9.6,2,1,78,1,108.1,46.3,https://www.espn.com/nfl/game/_/gameId/401220295,Aaron RodgersGB_Sun 11/15,Green Bay Packers
+Aaron Rodgers,Thu 11/5,@SF,W34-17,25,31,305,80.6,9.8,4,0,52,1,147.2,99.2,https://www.espn.com/nfl/game/_/gameId/401220359,Aaron RodgersGB_Thu 11/5,Green Bay Packers
+Aaron Rodgers,Sun 11/1,vsMIN,L28-22,27,41,291,65.9,7.1,3,0,45,1,110.9,70.8,https://www.espn.com/nfl/game/_/gameId/401220292,Aaron RodgersGB_Sun 11/1,Green Bay Packers
+Aaron Rodgers,Sun 10/25,@HOU,W35-20,23,34,283,67.6,8.3,4,0,45,0,132.4,85.1,https://www.espn.com/nfl/game/_/gameId/401220183,Aaron RodgersGB_Sun 10/25,Green Bay Packers
+Aaron Rodgers,Sun 10/18,@TB,L38-10,16,35,160,45.7,4.6,0,2,20,4,35.4,12.5,https://www.espn.com/nfl/game/_/gameId/401220331,Aaron RodgersGB_Sun 10/18,Green Bay Packers
+Aaron Rodgers,Mon 10/5,vsATL,W30-16,27,33,327,81.8,9.9,4,0,29,1,147.5,97.0,https://www.espn.com/nfl/game/_/gameId/401220293,Aaron RodgersGB_Mon 10/5,Green Bay Packers
+Aaron Rodgers,Sun 9/27,@NO,W37-30,21,32,283,65.6,8.8,3,0,72,1,124.9,92.0,https://www.espn.com/nfl/game/_/gameId/401220323,Aaron RodgersGB_Sun 9/27,Green Bay Packers
+Aaron Rodgers,Sun 9/20,vsDET,W42-21,18,30,240,60.0,8.0,2,0,41,1,107.6,85.6,https://www.espn.com/nfl/game/_/gameId/401220291,Aaron RodgersGB_Sun 9/20,Green Bay Packers
+Aaron Rodgers,Sun 9/13,@MIN,W43-34,32,44,364,72.7,8.3,4,0,45,0,127.5,93.6,https://www.espn.com/nfl/game/_/gameId/401220300,Aaron RodgersGB_Sun 9/13,Green Bay Packers
+Kirk Cousins,Sun 1/3,@DET,W37-35,28,40,405,70.0,10.1,3,0,40,3,127.6,68.6,https://www.espn.com/nfl/game/_/gameId/401220284,Kirk CousinsMIN_Sun 1/3,Minnesota Vikings
+Kirk Cousins,Fri 12/25,@NO,L52-33,27,41,291,65.9,7.1,3,0,25,2,110.9,69.6,https://www.espn.com/nfl/game/_/gameId/401220324,Kirk CousinsMIN_Fri 12/25,Minnesota Vikings
+Kirk Cousins,Sun 12/20,vsCHI,L33-27,24,35,271,68.6,7.7,2,1,30,3,98.6,68.6,https://www.espn.com/nfl/game/_/gameId/401220298,Kirk CousinsMIN_Sun 12/20,Minnesota Vikings
+Kirk Cousins,Sun 12/13,@TB,L26-14,24,37,225,64.9,6.1,1,0,25,6,90.5,62.5,https://www.espn.com/nfl/game/_/gameId/401220332,Kirk CousinsMIN_Sun 12/13,Minnesota Vikings
+Kirk Cousins,Sun 12/6,vsJAX,W27-24 OT,28,43,305,65.1,7.1,3,1,40,4,99.5,26.7,https://www.espn.com/nfl/game/_/gameId/401220303,Kirk CousinsMIN_Sun 12/6,Minnesota Vikings
+Kirk Cousins,Sun 11/29,vsCAR,W28-27,34,45,307,75.6,6.8,3,0,25,2,115.7,79.0,https://www.espn.com/nfl/game/_/gameId/401220302,Kirk CousinsMIN_Sun 11/29,Minnesota Vikings
+Kirk Cousins,Sun 11/22,vsDAL,L31-28,22,30,314,73.3,10.5,3,0,51,2,140.1,80.5,https://www.espn.com/nfl/game/_/gameId/401220305,Kirk CousinsMIN_Sun 11/22,Minnesota Vikings
+Kirk Cousins,Mon 11/16,@CHI,W19-13,25,36,292,69.4,8.1,2,1,54,1,100.7,83.8,https://www.espn.com/nfl/game/_/gameId/401220276,Kirk CousinsMIN_Mon 11/16,Minnesota Vikings
+Kirk Cousins,Sun 11/8,vsDET,W34-20,13,20,220,65.0,11.0,3,0,35,1,141.7,79.4,https://www.espn.com/nfl/game/_/gameId/401220299,Kirk CousinsMIN_Sun 11/8,Minnesota Vikings
+Kirk Cousins,Sun 11/1,@GB,W28-22,11,14,160,78.6,11.4,1,0,50,1,138.1,83.6,https://www.espn.com/nfl/game/_/gameId/401220292,Kirk CousinsMIN_Sun 11/1,Minnesota Vikings
+Kirk Cousins,Sun 10/18,vsATL,L40-23,24,36,343,66.7,9.5,3,3,49,1,90.4,30.2,https://www.espn.com/nfl/game/_/gameId/401220301,Kirk CousinsMIN_Sun 10/18,Minnesota Vikings
+Kirk Cousins,Sun 10/11,@SEA,L27-26,27,39,249,69.2,6.4,2,1,25,3,92.8,67.1,https://www.espn.com/nfl/game/_/gameId/401220367,Kirk CousinsMIN_Sun 10/11,Minnesota Vikings
+Kirk Cousins,Sun 10/4,@HOU,W31-23,16,22,260,72.7,11.8,1,0,39,3,127.1,63.1,https://www.espn.com/nfl/game/_/gameId/401220184,Kirk CousinsMIN_Sun 10/4,Minnesota Vikings
+Kirk Cousins,Sun 9/27,vsTEN,L31-30,16,27,251,59.3,9.3,3,2,71,2,96.4,52.6,https://www.espn.com/nfl/game/_/gameId/401220304,Kirk CousinsMIN_Sun 9/27,Minnesota Vikings
+Kirk Cousins,Sun 9/20,@IND,L28-11,11,26,113,42.3,4.3,0,3,24,3,15.9,8.8,https://www.espn.com/nfl/game/_/gameId/401220192,Kirk CousinsMIN_Sun 9/20,Minnesota Vikings
+Kirk Cousins,Sun 9/13,vsGB,L43-34,19,25,259,76.0,10.4,2,1,37,2,118.6,65.1,https://www.espn.com/nfl/game/_/gameId/401220300,Kirk CousinsMIN_Sun 9/13,Minnesota Vikings
+Russell Wilson,Sun 1/3,@SF,W26-23,20,36,181,55.6,5.0,2,0,29,2,87.9,79.8,https://www.espn.com/nfl/game/_/gameId/401220354,Russell WilsonSEA_Sun 1/3,Seattle Seahawks
+Russell Wilson,Sun 12/27,vsLAR,W20-9,20,32,225,62.5,7.0,1,0,45,5,93.9,63.0,https://www.espn.com/nfl/game/_/gameId/401220362,Russell WilsonSEA_Sun 12/27,Seattle Seahawks
+Russell Wilson,Sun 12/20,@WSH,W20-15,18,27,121,66.7,4.5,1,1,15,0,73.2,92.9,https://www.espn.com/nfl/game/_/gameId/401220270,Russell WilsonSEA_Sun 12/20,Seattle Seahawks
+Russell Wilson,Sun 12/13,vsNYJ,W40-3,21,27,206,77.8,7.6,4,1,20,0,122.6,87.3,https://www.espn.com/nfl/game/_/gameId/401220366,Russell WilsonSEA_Sun 12/13,Seattle Seahawks
+Russell Wilson,Sun 12/6,vsNYG,L17-12,27,43,263,62.8,6.1,1,1,28,5,78.0,30.0,https://www.espn.com/nfl/game/_/gameId/401220364,Russell WilsonSEA_Sun 12/6,Seattle Seahawks
+Russell Wilson,Mon 11/30,@PHI,W23-17,22,31,230,71.0,7.4,1,0,52,2,102.9,83.9,https://www.espn.com/nfl/game/_/gameId/401220262,Russell WilsonSEA_Mon 11/30,Seattle Seahawks
+Russell Wilson,Thu 11/19,vsARI,W28-21,23,28,197,82.1,7.0,2,0,25,3,119.8,44.1,https://www.espn.com/nfl/game/_/gameId/401220360,Russell WilsonSEA_Thu 11/19,Seattle Seahawks
+Russell Wilson,Sun 11/15,@LAR,L23-16,22,37,248,59.5,6.7,0,2,39,6,57.0,32.3,https://www.espn.com/nfl/game/_/gameId/401220346,Russell WilsonSEA_Sun 11/15,Seattle Seahawks
+Russell Wilson,Sun 11/8,@BUF,L44-34,28,41,390,68.3,9.5,2,2,55,5,94.6,70.7,https://www.espn.com/nfl/game/_/gameId/401220120,Russell WilsonSEA_Sun 11/8,Seattle Seahawks
+Russell Wilson,Sun 11/1,vsSF,W37-27,27,37,261,73.0,7.1,4,0,46,2,128.3,90.9,https://www.espn.com/nfl/game/_/gameId/401220361,Russell WilsonSEA_Sun 11/1,Seattle Seahawks
+Russell Wilson,Sun 10/25,@ARI,L37-34 OT,33,50,388,66.0,7.8,3,3,47,2,84.4,70.8,https://www.espn.com/nfl/game/_/gameId/401220338,Russell WilsonSEA_Sun 10/25,Seattle Seahawks
+Russell Wilson,Sun 10/11,vsMIN,W27-26,20,32,217,62.5,6.8,3,1,39,4,100.7,70.7,https://www.espn.com/nfl/game/_/gameId/401220367,Russell WilsonSEA_Sun 10/11,Seattle Seahawks
+Russell Wilson,Sun 10/4,@MIA,W31-23,24,34,360,70.6,10.6,2,1,57,2,112.4,81.2,https://www.espn.com/nfl/game/_/gameId/401220128,Russell WilsonSEA_Sun 10/4,Seattle Seahawks
+Russell Wilson,Sun 9/27,vsDAL,W38-31,27,40,315,67.5,7.9,5,0,62,4,130.7,87.2,https://www.espn.com/nfl/game/_/gameId/401220363,Russell WilsonSEA_Sun 9/27,Seattle Seahawks
+Russell Wilson,Sun 9/20,vsNE,W35-30,21,28,288,75.0,10.3,5,1,54,2,132.1,86.2,https://www.espn.com/nfl/game/_/gameId/401220365,Russell WilsonSEA_Sun 9/20,Seattle Seahawks
+Russell Wilson,Sun 9/13,@ATL,W38-25,31,35,322,88.6,9.2,4,0,38,3,143.1,86.0,https://www.espn.com/nfl/game/_/gameId/401220313,Russell WilsonSEA_Sun 9/13,Seattle Seahawks
+Philip Rivers,Sun 1/3,vsJAX,W28-14,17,27,164,63.0,6.1,1,1,25,0,76.8,41.0,https://www.espn.com/nfl/game/_/gameId/401220187,Philip RiversIND_Sun 1/3,Indianapolis Colts
+Philip Rivers,Sun 12/27,@PIT,L28-24,21,34,270,61.8,7.9,1,1,42,5,84.2,54.1,https://www.espn.com/nfl/game/_/gameId/401220174,Philip RiversIND_Sun 12/27,Indianapolis Colts
+Philip Rivers,Sun 12/20,vsHOU,W27-20,22,28,228,78.6,8.1,2,0,41,1,124.4,71.4,https://www.espn.com/nfl/game/_/gameId/401220186,Philip RiversIND_Sun 12/20,Indianapolis Colts
+Philip Rivers,Sun 12/13,@LV,W44-27,19,28,244,67.9,8.7,2,0,41,0,118.7,84.6,https://www.espn.com/nfl/game/_/gameId/401220233,Philip RiversIND_Sun 12/13,Indianapolis Colts
+Philip Rivers,Sun 12/6,@HOU,W26-20,27,35,285,77.1,8.1,2,0,39,3,119.3,61.2,https://www.espn.com/nfl/game/_/gameId/401220178,Philip RiversIND_Sun 12/6,Indianapolis Colts
+Philip Rivers,Sun 11/29,vsTEN,L45-26,24,42,295,57.1,7.0,2,1,50,1,84.9,47.4,https://www.espn.com/nfl/game/_/gameId/401220188,Philip RiversIND_Sun 11/29,Indianapolis Colts
+Philip Rivers,Sun 11/22,vsGB,W34-31 OT,24,36,288,66.7,8.0,3,1,45,1,107.2,66.6,https://www.espn.com/nfl/game/_/gameId/401220191,Philip RiversIND_Sun 11/22,Indianapolis Colts
+Philip Rivers,Thu 11/12,@TEN,W34-17,29,39,308,74.4,7.9,1,0,40,1,105.5,74.6,https://www.espn.com/nfl/game/_/gameId/401220203,Philip RiversIND_Thu 11/12,Indianapolis Colts
+Philip Rivers,Sun 11/8,vsBAL,L24-10,25,43,227,58.1,5.3,0,1,21,0,62.8,29.6,https://www.espn.com/nfl/game/_/gameId/401220189,Philip RiversIND_Sun 11/8,Indianapolis Colts
+Philip Rivers,Sun 11/1,@DET,W41-21,23,33,262,69.7,7.9,3,0,29,2,123.5,82.1,https://www.espn.com/nfl/game/_/gameId/401220288,Philip RiversIND_Sun 11/1,Indianapolis Colts
+Philip Rivers,Sun 10/18,vsCIN,W31-27,29,44,371,65.9,8.4,3,1,55,1,105.4,78.6,https://www.espn.com/nfl/game/_/gameId/401220190,Philip RiversIND_Sun 10/18,Indianapolis Colts
+Philip Rivers,Sun 10/11,@CLE,L32-23,21,33,243,63.6,7.4,0,2,36,1,60.5,36.8,https://www.espn.com/nfl/game/_/gameId/401220166,Philip RiversIND_Sun 10/11,Indianapolis Colts
+Philip Rivers,Sun 10/4,@CHI,W19-11,16,29,190,55.2,6.6,1,0,36,1,86.9,77.8,https://www.espn.com/nfl/game/_/gameId/401220280,Philip RiversIND_Sun 10/4,Indianapolis Colts
+Philip Rivers,Sun 9/27,vsNYJ,W36-7,17,21,217,81.0,10.3,1,0,45,0,125.6,89.4,https://www.espn.com/nfl/game/_/gameId/401220193,Philip RiversIND_Sun 9/27,Indianapolis Colts
+Philip Rivers,Sun 9/20,vsMIN,W28-11,19,25,214,76.0,8.6,1,1,33,2,97.8,34.1,https://www.espn.com/nfl/game/_/gameId/401220192,Philip RiversIND_Sun 9/20,Indianapolis Colts
+Philip Rivers,Sun 9/13,@JAX,L27-20,36,46,363,78.3,7.9,1,2,35,0,88.7,43.6,https://www.espn.com/nfl/game/_/gameId/401220195,Philip RiversIND_Sun 9/13,Indianapolis Colts
+Derek Carr,Sun 1/3,@DEN,W32-31,24,38,371,63.2,9.8,2,2,57,3,91.0,65.6,https://www.espn.com/nfl/game/_/gameId/401220211,Derek CarrLV_Sun 1/3,Las Vegas Raiders
+Derek Carr,Sat 12/26,vsMIA,L26-25,21,34,336,61.8,9.9,1,0,85,3,104.5,56.1,https://www.espn.com/nfl/game/_/gameId/401220230,Derek CarrLV_Sat 12/26,Las Vegas Raiders
+Derek Carr,Thu 12/17,vsLAC,L30-27 OT,3,5,53,60.0,10.6,0,0,30,1,96.3,14.6,https://www.espn.com/nfl/game/_/gameId/401220228,Derek CarrLV_Thu 12/17,Las Vegas Raiders
+Derek Carr,Sun 12/13,vsIND,L44-27,31,45,316,68.9,7.0,2,2,47,0,85.0,72.6,https://www.espn.com/nfl/game/_/gameId/401220233,Derek CarrLV_Sun 12/13,Las Vegas Raiders
+Derek Carr,Sun 12/6,@NYJ,W31-28,28,47,381,59.6,8.1,3,1,46,2,97.9,70.9,https://www.espn.com/nfl/game/_/gameId/401220142,Derek CarrLV_Sun 12/6,Las Vegas Raiders
+Derek Carr,Sun 11/29,@ATL,L43-6,22,34,215,64.7,6.3,0,1,36,3,70.1,12.3,https://www.espn.com/nfl/game/_/gameId/401220312,Derek CarrLV_Sun 11/29,Las Vegas Raiders
+Derek Carr,Sun 11/22,vsKC,L35-31,23,31,275,74.2,8.9,3,1,29,0,119.7,95.3,https://www.espn.com/nfl/game/_/gameId/401220227,Derek CarrLV_Sun 11/22,Las Vegas Raiders
+Derek Carr,Sun 11/15,vsDEN,W37-12,16,25,154,64.0,6.2,0,0,25,0,81.1,60.0,https://www.espn.com/nfl/game/_/gameId/401220226,Derek CarrLV_Sun 11/15,Las Vegas Raiders
+Derek Carr,Sun 11/8,@LAC,W31-26,13,23,165,56.5,7.2,2,0,53,1,108.1,75.8,https://www.espn.com/nfl/game/_/gameId/401220236,Derek CarrLV_Sun 11/8,Las Vegas Raiders
+Derek Carr,Sun 11/1,@CLE,W16-6,15,24,111,62.5,4.6,1,0,17,2,87.3,49.7,https://www.espn.com/nfl/game/_/gameId/401220169,Derek CarrLV_Sun 11/1,Las Vegas Raiders
+Derek Carr,Sun 10/25,vsTB,L45-20,24,36,284,66.7,7.9,2,1,44,3,97.5,78.6,https://www.espn.com/nfl/game/_/gameId/401220232,Derek CarrLV_Sun 10/25,Las Vegas Raiders
+Derek Carr,Sun 10/11,@KC,W40-32,22,31,347,71.0,11.2,3,1,72,1,126.7,90.2,https://www.espn.com/nfl/game/_/gameId/401220219,Derek CarrLV_Sun 10/11,Las Vegas Raiders
+Derek Carr,Sun 10/4,vsBUF,L30-23,32,44,311,72.7,7.1,2,0,37,2,107.3,90.1,https://www.espn.com/nfl/game/_/gameId/401220229,Derek CarrLV_Sun 10/4,Las Vegas Raiders
+Derek Carr,Sun 9/27,@NE,L36-20,24,32,261,75.0,8.2,2,0,34,2,119.4,48.7,https://www.espn.com/nfl/game/_/gameId/401220134,Derek CarrLV_Sun 9/27,Las Vegas Raiders
+Derek Carr,Mon 9/21,vsNO,W34-24,28,38,284,73.7,7.5,3,0,31,3,120.9,82.6,https://www.espn.com/nfl/game/_/gameId/401220231,Derek CarrLV_Mon 9/21,Las Vegas Raiders
+Derek Carr,Sun 9/13,@CAR,W34-30,22,30,239,73.3,8.0,1,0,45,0,107.5,62.9,https://www.espn.com/nfl/game/_/gameId/401220370,Derek CarrLV_Sun 9/13,Las Vegas Raiders
+Matthew Stafford,Sun 1/3,vsMIN,L37-35,20,31,293,64.5,9.5,3,1,43,1,114.0,84.5,https://www.espn.com/nfl/game/_/gameId/401220284,Matthew StaffordDET_Sun 1/3,Detroit Lions
+Matthew Stafford,Sat 12/26,vsTB,L47-7,2,3,17,66.7,5.7,0,0,15,0,81.3,56.0,https://www.espn.com/nfl/game/_/gameId/401220286,Matthew StaffordDET_Sat 12/26,Detroit Lions
+Matthew Stafford,Sun 12/20,@TEN,L46-25,22,32,252,68.8,7.9,1,0,44,0,102.6,91.2,https://www.espn.com/nfl/game/_/gameId/401220208,Matthew StaffordDET_Sun 12/20,Detroit Lions
+Matthew Stafford,Sun 12/13,vsGB,L31-24,24,34,244,70.6,7.2,1,0,23,4,100.6,70.2,https://www.espn.com/nfl/game/_/gameId/401220283,Matthew StaffordDET_Sun 12/13,Detroit Lions
+Matthew Stafford,Sun 12/6,@CHI,W34-30,27,42,402,64.3,9.6,3,1,49,2,109.4,85.4,https://www.espn.com/nfl/game/_/gameId/401220274,Matthew StaffordDET_Sun 12/6,Detroit Lions
+Matthew Stafford,Thu 11/26,vsHOU,L41-25,28,42,295,66.7,7.0,1,1,51,4,84.9,39.5,https://www.espn.com/nfl/game/_/gameId/401220287,Matthew StaffordDET_Thu 11/26,Detroit Lions
+Matthew Stafford,Sun 11/22,@CAR,L20-0,18,33,178,54.5,5.4,0,0,35,5,70.0,22.4,https://www.espn.com/nfl/game/_/gameId/401220318,Matthew StaffordDET_Sun 11/22,Detroit Lions
+Matthew Stafford,Sun 11/15,vsWSH,W30-27,24,33,276,72.7,8.4,3,0,55,1,127.8,78.3,https://www.espn.com/nfl/game/_/gameId/401220289,Matthew StaffordDET_Sun 11/15,Detroit Lions
+Matthew Stafford,Sun 11/8,@MIN,L34-20,23,32,211,71.9,6.6,1,2,20,2,73.8,48.9,https://www.espn.com/nfl/game/_/gameId/401220299,Matthew StaffordDET_Sun 11/8,Detroit Lions
+Matthew Stafford,Sun 11/1,vsIND,L41-21,24,42,336,57.1,8.0,3,1,73,5,96.9,28.2,https://www.espn.com/nfl/game/_/gameId/401220288,Matthew StaffordDET_Sun 11/1,Detroit Lions
+Matthew Stafford,Sun 10/25,@ATL,W23-22,25,36,340,69.4,9.4,1,0,36,2,108.6,80.0,https://www.espn.com/nfl/game/_/gameId/401220310,Matthew StaffordDET_Sun 10/25,Detroit Lions
+Matthew Stafford,Sun 10/18,@JAX,W34-16,19,31,223,61.3,7.2,1,1,48,0,80.4,92.9,https://www.espn.com/nfl/game/_/gameId/401220200,Matthew StaffordDET_Sun 10/18,Detroit Lions
+Matthew Stafford,Sun 10/4,vsNO,L35-29,17,31,206,54.8,6.6,3,1,50,3,94.3,82.4,https://www.espn.com/nfl/game/_/gameId/401220285,Matthew StaffordDET_Sun 10/4,Detroit Lions
+Matthew Stafford,Sun 9/27,@ARI,W26-23,22,31,270,71.0,8.7,2,0,27,4,119.0,63.1,https://www.espn.com/nfl/game/_/gameId/401220343,Matthew StaffordDET_Sun 9/27,Detroit Lions
+Matthew Stafford,Sun 9/20,@GB,L42-21,20,33,244,60.6,7.4,2,1,36,4,91.0,56.1,https://www.espn.com/nfl/game/_/gameId/401220291,Matthew StaffordDET_Sun 9/20,Detroit Lions
+Matthew Stafford,Sun 9/13,vsCHI,L27-23,24,42,297,57.1,7.1,1,1,32,1,77.2,45.5,https://www.espn.com/nfl/game/_/gameId/401220282,Matthew StaffordDET_Sun 9/13,Detroit Lions
+Kyler Murray,Sun 1/3,@LAR,L18-7,8,11,87,72.7,7.9,0,0,26,2,95.6,61.0,https://www.espn.com/nfl/game/_/gameId/401220344,Kyler MurrayARI_Sun 1/3,Arizona Cardinals
+Kyler Murray,Sat 12/26,vsSF,L20-12,31,50,247,62.0,4.9,0,1,45,3,66.0,60.7,https://www.espn.com/nfl/game/_/gameId/401220337,Kyler MurrayARI_Sat 12/26,Arizona Cardinals
+Kyler Murray,Sun 12/20,vsPHI,W33-26,27,36,406,75.0,11.3,3,1,45,1,127.8,45.2,https://www.espn.com/nfl/game/_/gameId/401220339,Kyler MurrayARI_Sun 12/20,Arizona Cardinals
+Kyler Murray,Sun 12/13,@NYG,W26-7,24,35,244,68.6,7.0,1,0,41,1,97.8,60.0,https://www.espn.com/nfl/game/_/gameId/401220253,Kyler MurrayARI_Sun 12/13,Arizona Cardinals
+Kyler Murray,Sun 12/6,vsLAR,L38-28,21,39,173,53.8,4.4,3,1,59,2,80.4,46.0,https://www.espn.com/nfl/game/_/gameId/401220336,Kyler MurrayARI_Sun 12/6,Arizona Cardinals
+Kyler Murray,Sun 11/29,@NE,L20-17,23,34,170,67.6,5.0,0,1,19,2,67.0,57.9,https://www.espn.com/nfl/game/_/gameId/401220135,Kyler MurrayARI_Sun 11/29,Arizona Cardinals
+Kyler Murray,Thu 11/19,@SEA,L28-21,29,42,269,69.0,6.4,2,0,25,3,102.2,67.3,https://www.espn.com/nfl/game/_/gameId/401220360,Kyler MurrayARI_Thu 11/19,Arizona Cardinals
+Kyler Murray,Sun 11/15,vsBUF,W32-30,22,32,245,68.8,7.7,1,1,43,3,88.7,62.4,https://www.espn.com/nfl/game/_/gameId/401220341,Kyler MurrayARI_Sun 11/15,Arizona Cardinals
+Kyler Murray,Sun 11/8,vsMIA,L34-31,21,26,283,80.8,10.9,3,0,56,1,150.5,97.5,https://www.espn.com/nfl/game/_/gameId/401220342,Kyler MurrayARI_Sun 11/8,Arizona Cardinals
+Kyler Murray,Sun 10/25,vsSEA,W37-34 OT,34,48,360,70.8,7.5,3,1,41,0,104.5,61.0,https://www.espn.com/nfl/game/_/gameId/401220338,Kyler MurrayARI_Sun 10/25,Arizona Cardinals
+Kyler Murray,Mon 10/19,@DAL,W38-10,9,24,188,37.5,7.8,2,0,80,1,93.7,86.6,https://www.espn.com/nfl/game/_/gameId/401220245,Kyler MurrayARI_Mon 10/19,Arizona Cardinals
+Kyler Murray,Sun 10/11,@NYJ,W30-10,27,37,380,73.0,10.3,1,1,45,1,103.4,75.4,https://www.espn.com/nfl/game/_/gameId/401220143,Kyler MurrayARI_Sun 10/11,Arizona Cardinals
+Kyler Murray,Sun 10/4,@CAR,L31-21,24,31,133,77.4,4.3,3,0,25,1,116.7,55.3,https://www.espn.com/nfl/game/_/gameId/401220320,Kyler MurrayARI_Sun 10/4,Arizona Cardinals
+Kyler Murray,Sun 9/27,vsDET,L26-23,23,35,270,65.7,7.7,2,3,30,1,72.3,37.7,https://www.espn.com/nfl/game/_/gameId/401220343,Kyler MurrayARI_Sun 9/27,Arizona Cardinals
+Kyler Murray,Sun 9/20,vsWSH,W30-15,26,38,286,68.4,7.5,1,1,54,3,88.3,89.9,https://www.espn.com/nfl/game/_/gameId/401220340,Kyler MurrayARI_Sun 9/20,Arizona Cardinals
+Kyler Murray,Sun 9/13,@SF,W24-20,26,40,230,65.0,5.8,1,1,33,2,78.1,83.6,https://www.espn.com/nfl/game/_/gameId/401220352,Kyler MurrayARI_Sun 9/13,Arizona Cardinals
+Jared Goff,Sun 12/27,@SEA,L20-9,24,43,234,55.8,5.4,0,1,26,3,61.6,51.3,https://www.espn.com/nfl/game/_/gameId/401220362,Jared GoffLAR_Sun 12/27,Los Angeles Rams
+Jared Goff,Sun 12/20,vsNYJ,L23-20,22,34,209,64.7,6.1,2,1,44,3,89.0,20.6,https://www.espn.com/nfl/game/_/gameId/401220350,Jared GoffLAR_Sun 12/20,Los Angeles Rams
+Jared Goff,Thu 12/10,vsNE,W24-3,16,25,137,64.0,5.5,1,1,25,1,74.9,47.2,https://www.espn.com/nfl/game/_/gameId/401220349,Jared GoffLAR_Thu 12/10,Los Angeles Rams
+Jared Goff,Sun 12/6,@ARI,W38-28,37,47,351,78.7,7.5,1,0,30,1,104.9,87.7,https://www.espn.com/nfl/game/_/gameId/401220336,Jared GoffLAR_Sun 12/6,Los Angeles Rams
+Jared Goff,Sun 11/29,vsSF,L23-20,19,31,198,61.3,6.4,0,2,33,2,52.9,10.6,https://www.espn.com/nfl/game/_/gameId/401220345,Jared GoffLAR_Sun 11/29,Los Angeles Rams
+Jared Goff,Mon 11/23,@TB,W27-24,39,51,376,76.5,7.4,3,2,37,0,99.8,84.2,https://www.espn.com/nfl/game/_/gameId/401220335,Jared GoffLAR_Mon 11/23,Los Angeles Rams
+Jared Goff,Sun 11/15,vsSEA,W23-16,27,37,302,73.0,8.2,0,0,39,3,96.9,55.0,https://www.espn.com/nfl/game/_/gameId/401220346,Jared GoffLAR_Sun 11/15,Los Angeles Rams
+Jared Goff,Sun 11/1,@MIA,L28-17,35,61,355,57.4,5.8,1,2,26,2,65.9,11.2,https://www.espn.com/nfl/game/_/gameId/401220127,Jared GoffLAR_Sun 11/1,Los Angeles Rams
+Jared Goff,Mon 10/26,vsCHI,W24-10,23,33,220,69.7,6.7,2,0,34,1,108.1,69.9,https://www.espn.com/nfl/game/_/gameId/401220351,Jared GoffLAR_Mon 10/26,Los Angeles Rams
+Jared Goff,Sun 10/18,@SF,L24-16,19,38,198,50.0,5.2,2,1,40,0,72.0,42.9,https://www.espn.com/nfl/game/_/gameId/401220353,Jared GoffLAR_Sun 10/18,Los Angeles Rams
+Jared Goff,Sun 10/11,@WSH,W30-10,21,30,309,70.0,10.3,2,1,56,1,111.7,88.7,https://www.espn.com/nfl/game/_/gameId/401220269,Jared GoffLAR_Sun 10/11,Los Angeles Rams
+Jared Goff,Sun 10/4,vsNYG,W17-9,25,32,200,78.1,6.3,1,0,55,2,103.1,62.0,https://www.espn.com/nfl/game/_/gameId/401220348,Jared GoffLAR_Sun 10/4,Los Angeles Rams
+Jared Goff,Sun 9/27,@BUF,L35-32,23,32,321,71.9,10.0,2,1,31,2,111.6,78.3,https://www.espn.com/nfl/game/_/gameId/401220119,Jared GoffLAR_Sun 9/27,Los Angeles Rams
+Jared Goff,Sun 9/20,@PHI,W37-19,20,27,267,74.1,9.9,3,0,28,1,142.1,96.1,https://www.espn.com/nfl/game/_/gameId/401220261,Jared GoffLAR_Sun 9/20,Los Angeles Rams
+Jared Goff,Sun 9/13,vsDAL,W20-17,20,31,275,64.5,8.9,0,1,31,1,79.4,43.0,https://www.espn.com/nfl/game/_/gameId/401220347,Jared GoffLAR_Sun 9/13,Los Angeles Rams
+Ryan Tannehill,Sun 1/3,@HOU,W41-38,18,27,216,66.7,8.0,1,0,52,2,103.3,86.1,https://www.espn.com/nfl/game/_/gameId/401220180,Ryan TannehillTEN_Sun 1/3,Tennessee Titans
+Ryan Tannehill,Sun 12/27,@GB,L40-14,11,24,121,45.8,5.0,1,2,19,2,40.5,83.0,https://www.espn.com/nfl/game/_/gameId/401220296,Ryan TannehillTEN_Sun 12/27,Tennessee Titans
+Ryan Tannehill,Sun 12/20,vsDET,W46-25,21,27,273,77.8,10.1,3,0,75,1,145.8,93.5,https://www.espn.com/nfl/game/_/gameId/401220208,Ryan TannehillTEN_Sun 12/20,Tennessee Titans
+Ryan Tannehill,Sun 12/13,@JAX,W31-10,19,24,212,79.2,8.8,2,0,37,1,131.2,74.5,https://www.espn.com/nfl/game/_/gameId/401220196,Ryan TannehillTEN_Sun 12/13,Tennessee Titans
+Ryan Tannehill,Sun 12/6,vsCLE,L41-35,29,45,389,64.4,8.6,3,1,43,3,104.8,79.2,https://www.espn.com/nfl/game/_/gameId/401220205,Ryan TannehillTEN_Sun 12/6,Tennessee Titans
+Ryan Tannehill,Sun 11/29,@IND,W45-26,13,22,221,59.1,10.0,1,0,69,1,108.3,86.6,https://www.espn.com/nfl/game/_/gameId/401220188,Ryan TannehillTEN_Sun 11/29,Tennessee Titans
+Ryan Tannehill,Sun 11/22,@BAL,W30-24 OT,22,31,259,71.0,8.4,2,1,50,2,104.1,81.2,https://www.espn.com/nfl/game/_/gameId/401220150,Ryan TannehillTEN_Sun 11/22,Tennessee Titans
+Ryan Tannehill,Thu 11/12,vsIND,L34-17,15,27,147,55.6,5.4,1,0,21,1,83.4,39.6,https://www.espn.com/nfl/game/_/gameId/401220203,Ryan TannehillTEN_Thu 11/12,Tennessee Titans
+Ryan Tannehill,Sun 11/8,vsCHI,W24-17,10,21,158,47.6,7.5,2,0,40,3,104.9,36.5,https://www.espn.com/nfl/game/_/gameId/401220207,Ryan TannehillTEN_Sun 11/8,Tennessee Titans
+Ryan Tannehill,Sun 11/1,@CIN,L31-20,18,30,233,60.0,7.8,2,1,27,1,92.8,47.4,https://www.espn.com/nfl/game/_/gameId/401220158,Ryan TannehillTEN_Sun 11/1,Tennessee Titans
+Ryan Tannehill,Sun 10/25,vsPIT,L27-24,18,30,220,60.0,7.3,2,0,73,2,104.9,76.4,https://www.espn.com/nfl/game/_/gameId/401249063,Ryan TannehillTEN_Sun 10/25,Tennessee Titans
+Ryan Tannehill,Sun 10/18,vsHOU,W42-36 OT,30,41,366,73.2,8.9,4,1,53,2,122.6,81.5,https://www.espn.com/nfl/game/_/gameId/401220202,Ryan TannehillTEN_Sun 10/18,Tennessee Titans
+Ryan Tannehill,Tue 10/13,vsBUF,W42-16,21,28,195,75.0,7.0,3,0,20,0,129.3,97.6,https://www.espn.com/nfl/game/_/gameId/401220209,Ryan TannehillTEN_Tue 10/13,Tennessee Titans
+Ryan Tannehill,Sun 9/27,@MIN,W31-30,23,37,321,62.2,8.7,0,1,61,1,78.8,52.4,https://www.espn.com/nfl/game/_/gameId/401220304,Ryan TannehillTEN_Sun 9/27,Tennessee Titans
+Ryan Tannehill,Sun 9/20,vsJAX,W33-30,18,24,239,75.0,10.0,4,0,63,1,145.7,87.3,https://www.espn.com/nfl/game/_/gameId/401220204,Ryan TannehillTEN_Sun 9/20,Tennessee Titans
+Ryan Tannehill,Mon 9/14,@DEN,W16-14,29,43,249,67.4,5.8,2,0,23,1,97.9,76.1,https://www.espn.com/nfl/game/_/gameId/401220217,Ryan TannehillTEN_Mon 9/14,Tennessee Titans
+Ben Roethlisberger,Sun 12/27,vsIND,W28-24,34,49,341,69.4,7.0,3,0,39,1,109.3,60.9,https://www.espn.com/nfl/game/_/gameId/401220174,Ben RoethlisbergerPIT_Sun 12/27,Pittsburgh Steelers
+Ben Roethlisberger,Mon 12/21,@CIN,L27-17,20,38,170,52.6,4.5,1,1,37,1,62.4,14.6,https://www.espn.com/nfl/game/_/gameId/401220156,Ben RoethlisbergerPIT_Mon 12/21,Pittsburgh Steelers
+Ben Roethlisberger,Sun 12/13,@BUF,L26-15,21,37,187,56.8,5.1,2,2,20,1,65.9,36.2,https://www.espn.com/nfl/game/_/gameId/401220121,Ben RoethlisbergerPIT_Sun 12/13,Pittsburgh Steelers
+Ben Roethlisberger,Mon 12/7,vsWSH,L23-17,33,53,305,62.3,5.8,2,1,50,0,82.7,65.3,https://www.espn.com/nfl/game/_/gameId/401220176,Ben RoethlisbergerPIT_Mon 12/7,Pittsburgh Steelers
+Ben Roethlisberger,Wed 12/2,vsBAL,W19-14,36,51,266,70.6,5.2,1,1,27,0,81.0,64.5,https://www.espn.com/nfl/game/_/gameId/401220170,Ben RoethlisbergerPIT_Wed 12/2,Pittsburgh Steelers
+Ben Roethlisberger,Sun 11/22,@JAX,W27-3,32,46,267,69.6,5.8,2,1,31,0,89.7,70.3,https://www.espn.com/nfl/game/_/gameId/401220198,Ben RoethlisbergerPIT_Sun 11/22,Pittsburgh Steelers
+Ben Roethlisberger,Sun 11/15,vsCIN,W36-10,27,46,333,58.7,7.2,4,0,46,0,110.1,75.9,https://www.espn.com/nfl/game/_/gameId/401220171,Ben RoethlisbergerPIT_Sun 11/15,Pittsburgh Steelers
+Ben Roethlisberger,Sun 11/8,@DAL,W24-19,29,42,306,69.0,7.3,3,0,42,0,113.8,78.5,https://www.espn.com/nfl/game/_/gameId/401220248,Ben RoethlisbergerPIT_Sun 11/8,Pittsburgh Steelers
+Ben Roethlisberger,Sun 11/1,@BAL,W28-24,21,32,182,65.6,5.7,2,0,24,2,101.3,79.7,https://www.espn.com/nfl/game/_/gameId/401220148,Ben RoethlisbergerPIT_Sun 11/1,Pittsburgh Steelers
+Ben Roethlisberger,Sun 10/25,@TEN,W27-24,32,49,268,65.3,5.5,2,3,28,0,67.4,50.9,https://www.espn.com/nfl/game/_/gameId/401249063,Ben RoethlisbergerPIT_Sun 10/25,Pittsburgh Steelers
+Ben Roethlisberger,Sun 10/18,vsCLE,W38-7,14,22,162,63.6,7.4,1,0,36,2,100.9,49.3,https://www.espn.com/nfl/game/_/gameId/401220172,Ben RoethlisbergerPIT_Sun 10/18,Pittsburgh Steelers
+Ben Roethlisberger,Sun 10/11,vsPHI,W38-29,27,34,239,79.4,7.0,3,0,35,1,125.4,84.0,https://www.espn.com/nfl/game/_/gameId/401220175,Ben RoethlisbergerPIT_Sun 10/11,Pittsburgh Steelers
+Ben Roethlisberger,Sun 9/27,vsHOU,W28-21,23,36,237,63.9,6.6,2,0,26,2,101.3,47.1,https://www.espn.com/nfl/game/_/gameId/401220173,Ben RoethlisbergerPIT_Sun 9/27,Pittsburgh Steelers
+Ben Roethlisberger,Sun 9/20,vsDEN,W26-21,29,41,311,70.7,7.6,2,1,84,1,98.7,37.2,https://www.espn.com/nfl/game/_/gameId/401220177,Ben RoethlisbergerPIT_Sun 9/20,Pittsburgh Steelers
+Ben Roethlisberger,Mon 9/14,@NYG,W26-16,21,32,229,65.6,7.2,3,0,28,2,117.8,63.9,https://www.espn.com/nfl/game/_/gameId/401220256,Ben RoethlisbergerPIT_Mon 9/14,Pittsburgh Steelers
+Teddy Bridgewater,Sun 1/3,vsNO,L33-7,13,23,176,56.5,7.7,0,2,44,1,44.8,23.8,https://www.espn.com/nfl/game/_/gameId/401220315,Teddy BridgewaterCAR_Sun 1/3,Carolina Panthers
+Teddy Bridgewater,Sun 12/27,@WSH,W20-13,19,28,197,67.9,7.0,1,1,44,4,85.0,53.0,https://www.espn.com/nfl/game/_/gameId/401220273,Teddy BridgewaterCAR_Sun 12/27,Carolina Panthers
+Teddy Bridgewater,Sat 12/19,@GB,L24-16,21,35,258,60.0,7.4,0,0,40,3,82.8,57.3,https://www.espn.com/nfl/game/_/gameId/401220294,Teddy BridgewaterCAR_Sat 12/19,Carolina Panthers
+Teddy Bridgewater,Sun 12/13,vsDEN,L32-27,30,40,283,75.0,7.1,0,0,32,4,94.1,45.5,https://www.espn.com/nfl/game/_/gameId/401220319,Teddy BridgewaterCAR_Sun 12/13,Carolina Panthers
+Teddy Bridgewater,Sun 11/29,@MIN,L28-27,19,36,267,52.8,7.4,1,1,41,0,74.7,50.2,https://www.espn.com/nfl/game/_/gameId/401220302,Teddy BridgewaterCAR_Sun 11/29,Carolina Panthers
+Teddy Bridgewater,Sun 11/15,vsTB,L46-23,18,24,136,75.0,5.7,2,1,38,1,98.6,70.5,https://www.espn.com/nfl/game/_/gameId/401220368,Teddy BridgewaterCAR_Sun 11/15,Carolina Panthers
+Teddy Bridgewater,Sun 11/8,@KC,L33-31,36,49,310,73.5,6.3,2,0,28,2,103.3,87.7,https://www.espn.com/nfl/game/_/gameId/401220224,Teddy BridgewaterCAR_Sun 11/8,Carolina Panthers
+Teddy Bridgewater,Thu 10/29,vsATL,L25-17,15,23,176,65.2,7.7,1,1,42,3,84.7,45.6,https://www.espn.com/nfl/game/_/gameId/401220314,Teddy BridgewaterCAR_Thu 10/29,Carolina Panthers
+Teddy Bridgewater,Sun 10/25,@NO,L27-24,23,28,254,82.1,9.1,2,0,74,1,128.3,89.6,https://www.espn.com/nfl/game/_/gameId/401220322,Teddy BridgewaterCAR_Sun 10/25,Carolina Panthers
+Teddy Bridgewater,Sun 10/18,vsCHI,L23-16,16,29,216,55.2,7.4,0,2,39,4,50.4,24.8,https://www.espn.com/nfl/game/_/gameId/401220317,Teddy BridgewaterCAR_Sun 10/18,Carolina Panthers
+Teddy Bridgewater,Sun 10/11,@ATL,W23-16,27,36,313,75.0,8.7,2,0,57,0,119.3,89.4,https://www.espn.com/nfl/game/_/gameId/401220306,Teddy BridgewaterCAR_Sun 10/11,Carolina Panthers
+Teddy Bridgewater,Sun 10/4,vsARI,W31-21,26,37,276,70.3,7.5,2,1,24,0,98.5,92.9,https://www.espn.com/nfl/game/_/gameId/401220320,Teddy BridgewaterCAR_Sun 10/4,Carolina Panthers
+Teddy Bridgewater,Sun 9/27,@LAC,W21-16,22,28,235,78.6,8.4,1,0,38,2,113.5,61.5,https://www.espn.com/nfl/game/_/gameId/401220240,Teddy BridgewaterCAR_Sun 9/27,Carolina Panthers
+Teddy Bridgewater,Sun 9/20,@TB,L31-17,33,42,367,78.6,8.7,0,2,39,5,83.2,37.2,https://www.espn.com/nfl/game/_/gameId/401220329,Teddy BridgewaterCAR_Sun 9/20,Carolina Panthers
+Teddy Bridgewater,Sun 9/13,vsLV,L34-30,22,34,269,64.7,7.9,1,0,75,1,98.8,69.7,https://www.espn.com/nfl/game/_/gameId/401220370,Teddy BridgewaterCAR_Sun 9/13,Carolina Panthers
+Baker Mayfield,Sun 1/3,vsPIT,W24-22,17,27,196,63.0,7.3,1,0,42,4,97.1,82.3,https://www.espn.com/nfl/game/_/gameId/401220164,Baker MayfieldCLE_Sun 1/3,Cleveland Browns
+Baker Mayfield,Sun 12/27,@NYJ,L23-16,28,53,285,52.8,5.4,0,0,28,4,68.5,20.4,https://www.espn.com/nfl/game/_/gameId/401220145,Baker MayfieldCLE_Sun 12/27,Cleveland Browns
+Baker Mayfield,Sun 12/20,@NYG,W20-6,27,32,297,84.4,9.3,2,0,22,1,126.2,98.3,https://www.espn.com/nfl/game/_/gameId/401220255,Baker MayfieldCLE_Sun 12/20,Cleveland Browns
+Baker Mayfield,Mon 12/14,vsBAL,L47-42,28,47,343,59.6,7.3,2,1,37,0,87.5,83.6,https://www.espn.com/nfl/game/_/gameId/401220162,Baker MayfieldCLE_Mon 12/14,Cleveland Browns
+Baker Mayfield,Sun 12/6,@TEN,W41-35,25,33,334,75.8,10.1,4,0,75,0,147.0,86.5,https://www.espn.com/nfl/game/_/gameId/401220205,Baker MayfieldCLE_Sun 12/6,Cleveland Browns
+Baker Mayfield,Sun 11/29,@JAX,W27-25,19,29,258,65.5,8.9,2,0,27,2,116.7,90.3,https://www.espn.com/nfl/game/_/gameId/401220197,Baker MayfieldCLE_Sun 11/29,Cleveland Browns
+Baker Mayfield,Sun 11/22,vsPHI,W22-17,12,22,204,54.5,9.3,0,0,43,3,86.2,23.8,https://www.espn.com/nfl/game/_/gameId/401220167,Baker MayfieldCLE_Sun 11/22,Cleveland Browns
+Baker Mayfield,Sun 11/15,vsHOU,W10-7,12,20,132,60.0,6.6,0,0,21,1,79.6,36.6,https://www.espn.com/nfl/game/_/gameId/401220165,Baker MayfieldCLE_Sun 11/15,Cleveland Browns
+Baker Mayfield,Sun 11/1,vsLV,L16-6,12,25,122,48.0,4.9,0,0,25,0,62.4,37.4,https://www.espn.com/nfl/game/_/gameId/401220169,Baker MayfieldCLE_Sun 11/1,Cleveland Browns
+Baker Mayfield,Sun 10/25,@CIN,W37-34,22,28,297,78.6,10.6,5,1,35,0,135.6,97.5,https://www.espn.com/nfl/game/_/gameId/401220155,Baker MayfieldCLE_Sun 10/25,Cleveland Browns
+Baker Mayfield,Sun 10/18,@PIT,L38-7,10,18,119,55.6,6.6,1,2,36,4,54.9,7.8,https://www.espn.com/nfl/game/_/gameId/401220172,Baker MayfieldCLE_Sun 10/18,Cleveland Browns
+Baker Mayfield,Sun 10/11,vsIND,W32-23,21,37,247,56.8,6.7,2,2,32,1,72.7,82.2,https://www.espn.com/nfl/game/_/gameId/401220166,Baker MayfieldCLE_Sun 10/11,Cleveland Browns
+Baker Mayfield,Sun 10/4,@DAL,W49-38,19,30,165,63.3,5.5,2,0,16,2,100.0,67.3,https://www.espn.com/nfl/game/_/gameId/401220247,Baker MayfieldCLE_Sun 10/4,Cleveland Browns
+Baker Mayfield,Sun 9/27,vsWSH,W34-20,16,23,156,69.6,6.8,2,0,18,2,117.3,74.0,https://www.espn.com/nfl/game/_/gameId/401220168,Baker MayfieldCLE_Sun 9/27,Cleveland Browns
+Baker Mayfield,Thu 9/17,vsCIN,W35-30,16,23,219,69.6,9.5,2,1,43,0,110.6,98.2,https://www.espn.com/nfl/game/_/gameId/401220163,Baker MayfieldCLE_Thu 9/17,Cleveland Browns
+Baker Mayfield,Sun 9/13,@BAL,L38-6,21,39,189,53.8,4.8,1,1,28,2,65.0,40.3,https://www.espn.com/nfl/game/_/gameId/401220147,Baker MayfieldCLE_Sun 9/13,Cleveland Browns
+Daniel Jones,Sun 1/3,vsDAL,W23-19,17,25,229,68.0,9.2,2,1,33,2,106.9,34.1,https://www.espn.com/nfl/game/_/gameId/401220250,Daniel JonesNYG_Sun 1/3,New York Giants
+Daniel Jones,Sun 12/27,@BAL,L27-13,24,41,252,58.5,6.1,1,0,20,6,84.6,45.2,https://www.espn.com/nfl/game/_/gameId/401220152,Daniel JonesNYG_Sun 12/27,New York Giants
+Daniel Jones,Sun 12/13,vsARI,L26-7,11,21,127,52.4,6.0,0,0,39,6,70.9,9.2,https://www.espn.com/nfl/game/_/gameId/401220253,Daniel JonesNYG_Sun 12/13,New York Giants
+Daniel Jones,Sun 11/29,@CIN,W19-17,16,27,213,59.3,7.9,0,0,53,0,84.3,85.2,https://www.espn.com/nfl/game/_/gameId/401220160,Daniel JonesNYG_Sun 11/29,New York Giants
+Daniel Jones,Sun 11/15,vsPHI,W27-17,21,28,244,75.0,8.7,0,0,40,3,100.9,91.8,https://www.espn.com/nfl/game/_/gameId/401220251,Daniel JonesNYG_Sun 11/15,New York Giants
+Daniel Jones,Sun 11/8,@WSH,W23-20,23,34,212,67.6,6.2,1,0,50,5,94.2,54.6,https://www.espn.com/nfl/game/_/gameId/401220267,Daniel JonesNYG_Sun 11/8,New York Giants
+Daniel Jones,Mon 11/2,vsTB,L25-23,25,41,256,61.0,6.2,2,2,30,3,74.8,54.7,https://www.espn.com/nfl/game/_/gameId/401220257,Daniel JonesNYG_Mon 11/2,New York Giants
+Daniel Jones,Thu 10/22,@PHI,L22-21,20,30,187,66.7,6.2,2,1,39,3,91.9,78.3,https://www.espn.com/nfl/game/_/gameId/401220259,Daniel JonesNYG_Thu 10/22,New York Giants
+Daniel Jones,Sun 10/18,vsWSH,W20-19,12,19,112,63.2,5.9,1,1,23,1,74.9,87.1,https://www.espn.com/nfl/game/_/gameId/401220252,Daniel JonesNYG_Sun 10/18,New York Giants
+Daniel Jones,Sun 10/11,@DAL,L37-34,20,33,222,60.6,6.7,0,0,39,2,80.6,66.7,https://www.espn.com/nfl/game/_/gameId/401220242,Daniel JonesNYG_Sun 10/11,New York Giants
+Daniel Jones,Sun 10/4,@LAR,L17-9,23,36,190,63.9,5.3,0,1,33,5,65.7,53.1,https://www.espn.com/nfl/game/_/gameId/401220348,Daniel JonesNYG_Sun 10/4,New York Giants
+Daniel Jones,Sun 9/27,vsSF,L36-9,17,32,179,53.1,5.6,0,1,29,2,56.6,56.3,https://www.espn.com/nfl/game/_/gameId/401220254,Daniel JonesNYG_Sun 9/27,New York Giants
+Daniel Jones,Sun 9/20,@CHI,L17-13,25,40,241,62.5,6.0,0,1,24,4,68.9,36.5,https://www.espn.com/nfl/game/_/gameId/401220281,Daniel JonesNYG_Sun 9/20,New York Giants
+Daniel Jones,Mon 9/14,vsPIT,L26-16,26,41,279,63.4,6.8,2,2,41,3,79.2,65.9,https://www.espn.com/nfl/game/_/gameId/401220256,Daniel JonesNYG_Mon 9/14,New York Giants
+Drew Brees,Sun 1/3,@CAR,W33-7,22,32,201,68.8,6.3,3,0,27,2,116.8,59.2,https://www.espn.com/nfl/game/_/gameId/401220315,Drew BreesNO_Sun 1/3,New Orleans Saints
+Drew Brees,Fri 12/25,vsMIN,W52-33,19,26,311,73.1,12.0,0,2,44,0,80.8,79.0,https://www.espn.com/nfl/game/_/gameId/401220324,Drew BreesNO_Fri 12/25,New Orleans Saints
+Drew Brees,Sun 12/20,vsKC,L32-29,15,34,234,44.1,6.9,3,1,51,1,84.7,20.7,https://www.espn.com/nfl/game/_/gameId/401220325,Drew BreesNO_Sun 12/20,New Orleans Saints
+Drew Brees,Sun 11/15,vsSF,W27-13,8,13,76,61.5,5.8,1,0,34,0,103.4,77.0,https://www.espn.com/nfl/game/_/gameId/401220327,Drew BreesNO_Sun 11/15,New Orleans Saints
+Drew Brees,Sun 11/8,@TB,W38-3,26,32,222,81.3,6.9,4,0,40,1,135.2,98.6,https://www.espn.com/nfl/game/_/gameId/401220330,Drew BreesNO_Sun 11/8,New Orleans Saints
+Drew Brees,Sun 11/1,@CHI,W26-23 OT,31,41,280,75.6,6.8,2,0,47,1,109.8,72.2,https://www.espn.com/nfl/game/_/gameId/401220277,Drew BreesNO_Sun 11/1,New Orleans Saints
+Drew Brees,Sun 10/25,vsCAR,W27-24,29,36,287,80.6,8.0,2,0,23,1,118.4,86.7,https://www.espn.com/nfl/game/_/gameId/401220322,Drew BreesNO_Sun 10/25,New Orleans Saints
+Drew Brees,Mon 10/12,vsLAC,W30-27 OT,33,47,325,70.2,6.9,1,1,41,2,87.6,69.6,https://www.espn.com/nfl/game/_/gameId/401220326,Drew BreesNO_Mon 10/12,New Orleans Saints
+Drew Brees,Sun 10/4,@DET,W35-29,19,25,246,76.0,9.8,2,1,29,2,116.4,82.9,https://www.espn.com/nfl/game/_/gameId/401220285,Drew BreesNO_Sun 10/4,New Orleans Saints
+Drew Brees,Sun 9/27,vsGB,L37-30,29,36,288,80.6,8.0,3,0,52,2,127.8,89.0,https://www.espn.com/nfl/game/_/gameId/401220323,Drew BreesNO_Sun 9/27,New Orleans Saints
+Drew Brees,Mon 9/21,@LV,L34-24,26,38,312,68.4,8.2,1,1,29,0,91.1,55.6,https://www.espn.com/nfl/game/_/gameId/401220231,Drew BreesNO_Mon 9/21,New Orleans Saints
+Drew Brees,Sun 9/13,vsTB,W34-23,18,30,160,60.0,5.3,2,0,46,1,96.5,74.7,https://www.espn.com/nfl/game/_/gameId/401220369,Drew BreesNO_Sun 9/13,New Orleans Saints
+Drew Lock,Sun 1/3,vsLV,L32-31,25,41,339,61.0,8.3,2,0,92,2,103.6,42.2,https://www.espn.com/nfl/game/_/gameId/401220211,Drew LockDEN_Sun 1/3,Denver Broncos
+Drew Lock,Sun 12/27,@LAC,L19-16,24,47,264,51.1,5.6,0,2,27,2,50.3,43.4,https://www.espn.com/nfl/game/_/gameId/401220234,Drew LockDEN_Sun 12/27,Denver Broncos
+Drew Lock,Sat 12/19,vsBUF,L48-19,20,32,132,62.5,4.1,1,0,19,3,81.8,64.0,https://www.espn.com/nfl/game/_/gameId/401220213,Drew LockDEN_Sat 12/19,Denver Broncos
+Drew Lock,Sun 12/13,@CAR,W32-27,21,27,280,77.8,10.4,4,0,49,1,149.5,88.7,https://www.espn.com/nfl/game/_/gameId/401220319,Drew LockDEN_Sun 12/13,Denver Broncos
+Drew Lock,Sun 12/6,@KC,L22-16,15,28,151,53.6,5.4,2,2,37,0,63.2,68.6,https://www.espn.com/nfl/game/_/gameId/401220218,Drew LockDEN_Sun 12/6,Denver Broncos
+Drew Lock,Sun 11/22,vsMIA,W20-13,18,30,270,60.0,9.0,0,1,61,0,75.7,77.7,https://www.espn.com/nfl/game/_/gameId/401220214,Drew LockDEN_Sun 11/22,Denver Broncos
+Drew Lock,Sun 11/15,@LV,L37-12,23,47,257,48.9,5.5,1,4,27,2,37.3,21.7,https://www.espn.com/nfl/game/_/gameId/401220226,Drew LockDEN_Sun 11/15,Denver Broncos
+Drew Lock,Sun 11/8,@ATL,L34-27,25,48,313,52.1,6.5,2,1,41,1,77.9,47.1,https://www.espn.com/nfl/game/_/gameId/401220311,Drew LockDEN_Sun 11/8,Denver Broncos
+Drew Lock,Sun 11/1,vsLAC,W31-30,26,41,248,63.4,6.0,3,1,43,2,94.4,61.7,https://www.espn.com/nfl/game/_/gameId/401220212,Drew LockDEN_Sun 11/1,Denver Broncos
+Drew Lock,Sun 10/25,vsKC,L43-16,24,40,254,60.0,6.4,0,2,27,3,57.7,15.0,https://www.espn.com/nfl/game/_/gameId/401220210,Drew LockDEN_Sun 10/25,Denver Broncos
+Drew Lock,Sun 10/18,@NE,W18-12,10,24,189,41.7,7.9,0,2,41,2,34.9,15.4,https://www.espn.com/nfl/game/_/gameId/401220133,Drew LockDEN_Sun 10/18,Denver Broncos
+Drew Lock,Sun 9/20,@PIT,L26-21,1,5,20,20.0,4.0,0,0,20,1,43.8,4.7,https://www.espn.com/nfl/game/_/gameId/401220177,Drew LockDEN_Sun 9/20,Denver Broncos
+Drew Lock,Mon 9/14,vsTEN,L16-14,22,33,216,66.7,6.5,1,0,31,0,95.0,60.5,https://www.espn.com/nfl/game/_/gameId/401220217,Drew LockDEN_Mon 9/14,Denver Broncos
+Lamar Jackson,Sun 1/3,@CIN,W38-3,10,18,113,55.6,6.3,3,1,43,0,91.0,90.2,https://www.espn.com/nfl/game/_/gameId/401220154,Lamar JacksonBAL_Sun 1/3,Baltimore Ravens
+Lamar Jackson,Sun 12/27,vsNYG,W27-13,17,26,183,65.4,7.0,2,0,27,0,111.5,89.8,https://www.espn.com/nfl/game/_/gameId/401220152,Lamar JacksonBAL_Sun 12/27,Baltimore Ravens
+Lamar Jackson,Sun 12/20,vsJAX,W40-14,17,22,243,77.3,11.0,3,1,44,1,133.1,73.1,https://www.espn.com/nfl/game/_/gameId/401220149,Lamar JacksonBAL_Sun 12/20,Baltimore Ravens
+Lamar Jackson,Mon 12/14,@CLE,W47-42,11,17,163,64.7,9.6,1,0,44,4,115.6,99.6,https://www.espn.com/nfl/game/_/gameId/401220162,Lamar JacksonBAL_Mon 12/14,Baltimore Ravens
+Lamar Jackson,Tue 12/8,vsDAL,W34-17,12,17,107,70.6,6.3,2,1,38,0,101.8,82.6,https://www.espn.com/nfl/game/_/gameId/401220151,Lamar JacksonBAL_Tue 12/8,Baltimore Ravens
+Lamar Jackson,Sun 11/22,vsTEN,L30-24 OT,17,29,186,58.6,6.4,1,1,31,1,74.8,37.5,https://www.espn.com/nfl/game/_/gameId/401220150,Lamar JacksonBAL_Sun 11/22,Baltimore Ravens
+Lamar Jackson,Sun 11/15,@NE,L23-17,24,34,249,70.6,7.3,2,1,31,2,98.8,67.0,https://www.espn.com/nfl/game/_/gameId/401220137,Lamar JacksonBAL_Sun 11/15,Baltimore Ravens
+Lamar Jackson,Sun 11/8,@IND,W24-10,19,23,170,82.6,7.4,0,0,21,2,97.5,69.5,https://www.espn.com/nfl/game/_/gameId/401220189,Lamar JacksonBAL_Sun 11/8,Baltimore Ravens
+Lamar Jackson,Sun 11/1,vsPIT,L28-24,13,28,208,46.4,7.4,2,2,39,4,65.8,13.6,https://www.espn.com/nfl/game/_/gameId/401220148,Lamar JacksonBAL_Sun 11/1,Baltimore Ravens
+Lamar Jackson,Sun 10/18,@PHI,W30-28,16,27,186,59.3,6.9,1,0,32,3,92.5,87.1,https://www.espn.com/nfl/game/_/gameId/401220263,Lamar JacksonBAL_Sun 10/18,Baltimore Ravens
+Lamar Jackson,Sun 10/11,vsCIN,W27-3,19,37,180,51.4,4.9,2,1,30,1,71.9,58.2,https://www.espn.com/nfl/game/_/gameId/401220146,Lamar JacksonBAL_Sun 10/11,Baltimore Ravens
+Lamar Jackson,Sun 10/4,@WSH,W31-17,14,21,193,66.7,9.2,2,1,33,1,107.8,95.4,https://www.espn.com/nfl/game/_/gameId/401220271,Lamar JacksonBAL_Sun 10/4,Baltimore Ravens
+Lamar Jackson,Mon 9/28,vsKC,L34-20,15,28,97,53.6,3.5,1,0,19,4,73.1,32.0,https://www.espn.com/nfl/game/_/gameId/401220153,Lamar JacksonBAL_Mon 9/28,Baltimore Ravens
+Lamar Jackson,Sun 9/20,@HOU,W33-16,18,24,204,75.0,8.5,1,0,29,4,113.9,58.0,https://www.espn.com/nfl/game/_/gameId/401220181,Lamar JacksonBAL_Sun 9/20,Baltimore Ravens
+Lamar Jackson,Sun 9/13,vsCLE,W38-6,20,25,275,80.0,11.0,3,0,47,2,152.1,94.9,https://www.espn.com/nfl/game/_/gameId/401220147,Lamar JacksonBAL_Sun 9/13,Baltimore Ravens
+Joe Burrow,Sun 11/22,@WSH,L20-9,22,34,203,64.7,6.0,1,0,25,0,90.7,35.2,https://www.espn.com/nfl/game/_/gameId/401220272,Joe BurrowCIN_Sun 11/22,Cincinnati Bengals
+Joe Burrow,Sun 11/15,@PIT,L36-10,21,40,213,52.5,5.3,1,0,54,4,76.4,46.4,https://www.espn.com/nfl/game/_/gameId/401220171,Joe BurrowCIN_Sun 11/15,Cincinnati Bengals
+Joe Burrow,Sun 11/1,vsTEN,W31-20,26,37,249,70.3,6.7,2,0,24,0,106.7,76.7,https://www.espn.com/nfl/game/_/gameId/401220158,Joe BurrowCIN_Sun 11/1,Cincinnati Bengals
+Joe Burrow,Sun 10/25,vsCLE,L37-34,35,47,406,74.5,8.6,3,1,29,4,112.5,84.2,https://www.espn.com/nfl/game/_/gameId/401220155,Joe BurrowCIN_Sun 10/25,Cincinnati Bengals
+Joe Burrow,Sun 10/18,@IND,L31-27,25,39,313,64.1,8.0,0,1,67,2,78.3,77.9,https://www.espn.com/nfl/game/_/gameId/401220190,Joe BurrowCIN_Sun 10/18,Cincinnati Bengals
+Joe Burrow,Sun 10/11,@BAL,L27-3,19,30,183,63.3,6.1,0,1,26,7,66.4,5.6,https://www.espn.com/nfl/game/_/gameId/401220146,Joe BurrowCIN_Sun 10/11,Cincinnati Bengals
+Joe Burrow,Sun 10/4,vsJAX,W33-25,25,36,300,69.4,8.3,1,1,30,1,92.4,50.8,https://www.espn.com/nfl/game/_/gameId/401220157,Joe BurrowCIN_Sun 10/4,Cincinnati Bengals
+Joe Burrow,Sun 9/27,@PHI,T23-23 OT,31,44,312,70.5,7.1,2,0,42,8,105.5,53.4,https://www.espn.com/nfl/game/_/gameId/401220264,Joe BurrowCIN_Sun 9/27,Cincinnati Bengals
+Joe Burrow,Thu 9/17,@CLE,L35-30,37,61,316,60.7,5.2,3,0,23,3,90.6,78.9,https://www.espn.com/nfl/game/_/gameId/401220163,Joe BurrowCIN_Thu 9/17,Cincinnati Bengals
+Joe Burrow,Sun 9/13,vsLAC,L16-13,23,36,193,63.9,5.4,0,1,19,3,66.1,18.1,https://www.espn.com/nfl/game/_/gameId/401220161,Joe BurrowCIN_Sun 9/13,Cincinnati Bengals
+Cam Newton,Sun 1/3,vsNYJ,W28-14,21,30,242,70.0,8.1,3,0,31,3,127.4,70.8,https://www.espn.com/nfl/game/_/gameId/401220132,Cam NewtonNE_Sun 1/3,New England Patriots
+Cam Newton,Mon 12/28,vsBUF,L38-9,5,10,34,50.0,3.4,0,0,9,2,57.9,45.3,https://www.espn.com/nfl/game/_/gameId/401220130,Cam NewtonNE_Mon 12/28,New England Patriots
+Cam Newton,Sun 12/20,@MIA,L22-12,17,27,209,63.0,7.7,0,0,35,3,86.8,24.7,https://www.espn.com/nfl/game/_/gameId/401220123,Cam NewtonNE_Sun 12/20,New England Patriots
+Cam Newton,Thu 12/10,@LAR,L24-3,9,16,119,56.3,7.4,0,1,31,4,53.9,2.8,https://www.espn.com/nfl/game/_/gameId/401220349,Cam NewtonNE_Thu 12/10,New England Patriots
+Cam Newton,Sun 12/6,@LAC,W45-0,12,19,69,63.2,3.6,1,0,15,1,87.4,64.7,https://www.espn.com/nfl/game/_/gameId/401220237,Cam NewtonNE_Sun 12/6,New England Patriots
+Cam Newton,Sun 11/29,vsARI,W20-17,9,18,84,50.0,4.7,0,2,17,3,23.6,6.0,https://www.espn.com/nfl/game/_/gameId/401220135,Cam NewtonNE_Sun 11/29,New England Patriots
+Cam Newton,Sun 11/22,@HOU,L27-20,26,40,365,65.0,9.1,1,0,50,2,102.6,43.7,https://www.espn.com/nfl/game/_/gameId/401220185,Cam NewtonNE_Sun 11/22,New England Patriots
+Cam Newton,Sun 11/15,vsBAL,W23-17,13,17,118,76.5,6.9,1,0,26,1,114.3,74.3,https://www.espn.com/nfl/game/_/gameId/401220137,Cam NewtonNE_Sun 11/15,New England Patriots
+Cam Newton,Mon 11/9,@NYJ,W30-27,27,35,274,77.1,7.8,0,0,33,0,99.0,91.3,https://www.espn.com/nfl/game/_/gameId/401220140,Cam NewtonNE_Mon 11/9,New England Patriots
+Cam Newton,Sun 11/1,@BUF,L24-21,15,25,174,60.0,7.0,0,0,28,2,81.1,58.3,https://www.espn.com/nfl/game/_/gameId/401220115,Cam NewtonNE_Sun 11/1,New England Patriots
+Cam Newton,Sun 10/25,vsSF,L33-6,9,15,98,60.0,6.5,0,3,21,1,39.7,4.1,https://www.espn.com/nfl/game/_/gameId/401220136,Cam NewtonNE_Sun 10/25,New England Patriots
+Cam Newton,Sun 10/18,vsDEN,L18-12,17,25,157,68.0,6.3,0,2,19,4,51.6,16.1,https://www.espn.com/nfl/game/_/gameId/401220133,Cam NewtonNE_Sun 10/18,New England Patriots
+Cam Newton,Sun 9/27,vsLV,W36-20,17,28,162,60.7,5.8,1,1,27,2,73.8,18.7,https://www.espn.com/nfl/game/_/gameId/401220134,Cam NewtonNE_Sun 9/27,New England Patriots
+Cam Newton,Sun 9/20,@SEA,L35-30,30,44,397,68.2,9.0,1,1,49,1,94.6,77.0,https://www.espn.com/nfl/game/_/gameId/401220365,Cam NewtonNE_Sun 9/20,New England Patriots
+Cam Newton,Sun 9/13,vsMIA,W21-11,15,19,155,78.9,8.2,0,0,25,2,100.7,82.5,https://www.espn.com/nfl/game/_/gameId/401220131,Cam NewtonNE_Sun 9/13,New England Patriots
+Carson Wentz,Sun 12/6,@GB,L30-16,6,15,79,40.0,5.3,0,0,41,4,57.4,33.0,https://www.espn.com/nfl/game/_/gameId/401220297,Carson WentzPHI_Sun 12/6,Philadelphia Eagles
+Carson Wentz,Mon 11/30,vsSEA,L23-17,25,45,215,55.6,4.8,2,1,33,6,73.8,60.1,https://www.espn.com/nfl/game/_/gameId/401220262,Carson WentzPHI_Mon 11/30,Philadelphia Eagles
+Carson Wentz,Sun 11/22,@CLE,L22-17,21,35,235,60.0,6.7,2,2,32,5,75.3,17.3,https://www.espn.com/nfl/game/_/gameId/401220167,Carson WentzPHI_Sun 11/22,Philadelphia Eagles
+Carson Wentz,Sun 11/15,@NYG,L27-17,21,37,208,56.8,5.6,0,0,22,3,72.8,40.5,https://www.espn.com/nfl/game/_/gameId/401220251,Carson WentzPHI_Sun 11/15,Philadelphia Eagles
+Carson Wentz,Sun 11/1,vsDAL,W23-9,15,27,123,55.6,4.6,2,2,32,4,61.2,32.4,https://www.espn.com/nfl/game/_/gameId/401220258,Carson WentzPHI_Sun 11/1,Philadelphia Eagles
+Carson Wentz,Thu 10/22,vsNYG,W22-21,25,43,359,58.1,8.3,2,1,59,3,91.1,61.2,https://www.espn.com/nfl/game/_/gameId/401220259,Carson WentzPHI_Thu 10/22,Philadelphia Eagles
+Carson Wentz,Sun 10/18,vsBAL,L30-28,21,40,213,52.5,5.3,2,0,50,6,84.7,36.3,https://www.espn.com/nfl/game/_/gameId/401220263,Carson WentzPHI_Sun 10/18,Philadelphia Eagles
+Carson Wentz,Sun 10/11,@PIT,L38-29,20,35,258,57.1,7.4,2,2,37,5,75.7,88.4,https://www.espn.com/nfl/game/_/gameId/401220175,Carson WentzPHI_Sun 10/11,Philadelphia Eagles
+Carson Wentz,Sun 10/4,@SF,W25-20,18,28,193,64.3,6.9,1,1,42,3,81.4,80.4,https://www.espn.com/nfl/game/_/gameId/401220355,Carson WentzPHI_Sun 10/4,Philadelphia Eagles
+Carson Wentz,Sun 9/27,vsCIN,T23-23 OT,29,47,225,61.7,4.8,1,2,30,3,62.8,49.3,https://www.espn.com/nfl/game/_/gameId/401220264,Carson WentzPHI_Sun 9/27,Philadelphia Eagles
+Carson Wentz,Sun 9/20,vsLAR,L37-19,26,43,242,60.5,5.6,0,2,25,0,56.5,49.7,https://www.espn.com/nfl/game/_/gameId/401220261,Carson WentzPHI_Sun 9/20,Philadelphia Eagles
+Carson Wentz,Sun 9/13,@WSH,L27-17,24,42,270,57.1,6.4,2,2,55,8,72.5,20.6,https://www.espn.com/nfl/game/_/gameId/401220268,Carson WentzPHI_Sun 9/13,Philadelphia Eagles
+Nick Mullens,Sun 12/20,@DAL,L41-33,21,36,219,58.3,6.1,2,2,25,2,71.4,48.9,https://www.espn.com/nfl/game/_/gameId/401220246,Nick MullensSF_Sun 12/20,San Francisco 49ers
+Nick Mullens,Sun 12/13,vsWSH,L23-15,25,45,260,55.6,5.8,1,1,22,4,70.6,21.0,https://www.espn.com/nfl/game/_/gameId/401220356,Nick MullensSF_Sun 12/13,San Francisco 49ers
+Nick Mullens,Mon 12/7,vsBUF,L34-24,26,39,316,66.7,8.1,3,2,49,0,95.7,70.4,https://www.espn.com/nfl/game/_/gameId/401220357,Nick MullensSF_Mon 12/7,San Francisco 49ers
+Nick Mullens,Sun 11/29,@LAR,W23-20,24,35,252,68.6,7.2,0,1,33,2,77.3,47.0,https://www.espn.com/nfl/game/_/gameId/401220345,Nick MullensSF_Sun 11/29,San Francisco 49ers
+Nick Mullens,Sun 11/15,@NO,L27-13,24,38,247,63.2,6.5,1,2,27,2,68.6,60.5,https://www.espn.com/nfl/game/_/gameId/401220327,Nick MullensSF_Sun 11/15,San Francisco 49ers
+Nick Mullens,Thu 11/5,vsGB,L34-17,22,35,291,62.9,8.3,1,1,47,1,86.7,15.3,https://www.espn.com/nfl/game/_/gameId/401220359,Nick MullensSF_Thu 11/5,San Francisco 49ers
+Nick Mullens,Sun 11/1,@SEA,L37-27,18,25,238,72.0,9.5,2,0,33,0,128.4,97.3,https://www.espn.com/nfl/game/_/gameId/401220361,Nick MullensSF_Sun 11/1,San Francisco 49ers
+Nick Mullens,Sun 10/4,vsPHI,L25-20,18,26,200,69.2,7.7,1,2,38,4,72.6,11.1,https://www.espn.com/nfl/game/_/gameId/401220355,Nick MullensSF_Sun 10/4,San Francisco 49ers
+Nick Mullens,Sun 9/27,@NYG,W36-9,25,36,343,69.4,9.5,1,0,26,2,108.9,82.9,https://www.espn.com/nfl/game/_/gameId/401220254,Nick MullensSF_Sun 9/27,San Francisco 49ers
+Nick Mullens,Sun 9/20,@NYJ,W31-13,8,11,71,72.7,6.5,0,1,24,2,51.7,1.8,https://www.espn.com/nfl/game/_/gameId/401220144,Nick MullensSF_Sun 9/20,San Francisco 49ers
+Gardner Minshew II,Sun 12/20,@BAL,L40-14,22,29,226,75.9,7.8,2,0,28,5,120.8,42.3,https://www.espn.com/nfl/game/_/gameId/401220149,Gardner Minshew IIJAX_Sun 12/20,Jacksonville Jaguars
+Gardner Minshew II,Sun 12/13,vsTEN,L31-10,18,31,178,58.1,5.7,1,0,27,0,85.1,46.2,https://www.espn.com/nfl/game/_/gameId/401220196,Gardner Minshew IIJAX_Sun 12/13,Jacksonville Jaguars
+Gardner Minshew II,Sun 10/25,@LAC,L39-29,14,27,173,51.9,6.4,2,0,36,5,96.7,27.8,https://www.espn.com/nfl/game/_/gameId/401220241,Gardner Minshew IIJAX_Sun 10/25,Jacksonville Jaguars
+Gardner Minshew II,Sun 10/18,vsDET,L34-16,25,44,243,56.8,5.5,1,1,51,1,70.5,26.7,https://www.espn.com/nfl/game/_/gameId/401220200,Gardner Minshew IIJAX_Sun 10/18,Jacksonville Jaguars
+Gardner Minshew II,Sun 10/11,@HOU,L30-14,31,49,301,63.3,6.1,2,0,51,3,94.0,61.2,https://www.espn.com/nfl/game/_/gameId/401220179,Gardner Minshew IIJAX_Sun 10/11,Jacksonville Jaguars
+Gardner Minshew II,Sun 10/4,@CIN,L33-25,27,40,351,67.5,8.8,2,1,33,3,101.1,37.3,https://www.espn.com/nfl/game/_/gameId/401220157,Gardner Minshew IIJAX_Sun 10/4,Jacksonville Jaguars
+Gardner Minshew II,Thu 9/24,vsMIA,L31-13,30,42,275,71.4,6.5,0,1,24,4,79.0,50.2,https://www.espn.com/nfl/game/_/gameId/401220201,Gardner Minshew IIJAX_Thu 9/24,Jacksonville Jaguars
+Gardner Minshew II,Sun 9/20,@TEN,L33-30,30,45,339,66.7,7.5,3,2,45,2,92.7,76.0,https://www.espn.com/nfl/game/_/gameId/401220204,Gardner Minshew IIJAX_Sun 9/20,Jacksonville Jaguars
+Gardner Minshew II,Sun 9/13,vsIND,W27-20,19,20,173,95.0,8.7,3,0,28,4,142.3,76.3,https://www.espn.com/nfl/game/_/gameId/401220195,Gardner Minshew IIJAX_Sun 9/13,Jacksonville Jaguars
+Sam Darnold,Sun 1/3,@NE,L28-14,23,34,266,67.6,7.8,1,2,53,3,76.4,26.2,https://www.espn.com/nfl/game/_/gameId/401220132,Sam DarnoldNYJ_Sun 1/3,New York Jets
+Sam Darnold,Sun 12/27,vsCLE,W23-16,16,32,175,50.0,5.5,2,0,30,2,87.4,36.6,https://www.espn.com/nfl/game/_/gameId/401220145,Sam DarnoldNYJ_Sun 12/27,New York Jets
+Sam Darnold,Sun 12/20,@LAR,W23-20,22,31,207,71.0,6.7,1,0,24,2,99.8,88.7,https://www.espn.com/nfl/game/_/gameId/401220350,Sam DarnoldNYJ_Sun 12/20,New York Jets
+Sam Darnold,Sun 12/13,@SEA,L40-3,14,26,132,53.8,5.1,0,0,34,3,68.1,43.3,https://www.espn.com/nfl/game/_/gameId/401220366,Sam DarnoldNYJ_Sun 12/13,New York Jets
+Sam Darnold,Sun 12/6,vsLV,L31-28,14,23,186,60.9,8.1,2,1,25,3,97.4,28.7,https://www.espn.com/nfl/game/_/gameId/401220142,Sam DarnoldNYJ_Sun 12/6,New York Jets
+Sam Darnold,Sun 11/29,vsMIA,L20-3,16,27,197,59.3,7.3,0,2,37,3,51.0,20.6,https://www.espn.com/nfl/game/_/gameId/401220139,Sam DarnoldNYJ_Sun 11/29,New York Jets
+Sam Darnold,Sun 11/1,@KC,L35-9,18,30,133,60.0,4.4,0,0,27,1,70.6,35.7,https://www.espn.com/nfl/game/_/gameId/401220222,Sam DarnoldNYJ_Sun 11/1,New York Jets
+Sam Darnold,Sun 10/25,vsBUF,L18-10,12,23,120,52.2,5.2,0,2,22,6,31.1,19.6,https://www.espn.com/nfl/game/_/gameId/401220138,Sam DarnoldNYJ_Sun 10/25,New York Jets
+Sam Darnold,Thu 10/1,vsDEN,L37-28,23,42,230,54.8,5.5,0,0,35,6,70.5,72.0,https://www.espn.com/nfl/game/_/gameId/401220141,Sam DarnoldNYJ_Thu 10/1,New York Jets
+Sam Darnold,Sun 9/27,@IND,L36-7,17,29,168,58.6,5.8,1,3,28,2,47.0,9.8,https://www.espn.com/nfl/game/_/gameId/401220193,Sam DarnoldNYJ_Sun 9/27,New York Jets
+Sam Darnold,Sun 9/20,vsSF,L31-13,21,32,179,65.6,5.6,1,0,30,1,90.5,78.1,https://www.espn.com/nfl/game/_/gameId/401220144,Sam DarnoldNYJ_Sun 9/20,New York Jets
+Sam Darnold,Sun 9/13,@BUF,L27-17,21,35,215,60.0,6.1,1,1,69,3,75.3,20.0,https://www.espn.com/nfl/game/_/gameId/401220116,Sam DarnoldNYJ_Sun 9/13,New York Jets
+Andy Dalton,Sun 1/3,@NYG,L23-19,29,47,243,61.7,5.2,0,1,21,6,66.2,43.0,https://www.espn.com/nfl/game/_/gameId/401220250,Andy DaltonDAL_Sun 1/3,Dallas Cowboys
+Andy Dalton,Sun 12/27,vsPHI,W37-17,22,30,377,73.3,12.6,3,1,69,2,134.7,86.9,https://www.espn.com/nfl/game/_/gameId/401220243,Andy DaltonDAL_Sun 12/27,Dallas Cowboys
+Andy Dalton,Sun 12/20,vsSF,W41-33,19,33,209,57.6,6.3,2,0,45,2,96.7,38.5,https://www.espn.com/nfl/game/_/gameId/401220246,Andy DaltonDAL_Sun 12/20,Dallas Cowboys
+Andy Dalton,Sun 12/13,@CIN,W30-7,16,23,185,69.6,8.0,2,0,32,2,122.6,69.9,https://www.espn.com/nfl/game/_/gameId/401220159,Andy DaltonDAL_Sun 12/13,Dallas Cowboys
+Andy Dalton,Tue 12/8,@BAL,L34-17,31,48,285,64.6,5.9,2,1,28,1,85.9,59.7,https://www.espn.com/nfl/game/_/gameId/401220151,Andy DaltonDAL_Tue 12/8,Dallas Cowboys
+Andy Dalton,Thu 11/26,vsWSH,L41-16,25,35,215,71.4,6.1,1,1,54,3,84.8,74.4,https://www.espn.com/nfl/game/_/gameId/401220244,Andy DaltonDAL_Thu 11/26,Dallas Cowboys
+Andy Dalton,Sun 11/22,@MIN,W31-28,22,32,203,68.8,6.3,3,1,32,1,104.0,79.5,https://www.espn.com/nfl/game/_/gameId/401220305,Andy DaltonDAL_Sun 11/22,Dallas Cowboys
+Andy Dalton,Sun 10/25,@WSH,L25-3,9,19,75,47.4,3.9,0,1,18,3,36.1,8.2,https://www.espn.com/nfl/game/_/gameId/401220266,Andy DaltonDAL_Sun 10/25,Dallas Cowboys
+Andy Dalton,Mon 10/19,vsARI,L38-10,34,54,266,63.0,4.9,1,2,27,3,65.8,31.3,https://www.espn.com/nfl/game/_/gameId/401220245,Andy DaltonDAL_Mon 10/19,Dallas Cowboys
+Andy Dalton,Sun 10/11,vsNYG,W37-34,9,11,111,81.8,10.1,0,0,38,1,108.7,17.2,https://www.espn.com/nfl/game/_/gameId/401220242,Andy DaltonDAL_Sun 10/11,Dallas Cowboys
+Andy Dalton,Sun 9/20,vsATL,W40-39,0,1,0,0.0,0.0,0,0,0,0,39.6,6.1,https://www.espn.com/nfl/game/_/gameId/401220249,Andy DaltonDAL_Sun 9/20,Dallas Cowboys
+Ryan Fitzpatrick,Sat 12/26,@LV,W26-25,9,13,182,69.2,14.0,1,0,59,0,137.5,92.5,https://www.espn.com/nfl/game/_/gameId/401220230,Ryan FitzpatrickMIA_Sat 12/26,Miami Dolphins
+Ryan Fitzpatrick,Sun 11/29,@NYJ,W20-3,24,39,257,61.5,6.6,2,0,25,4,97.9,62.5,https://www.espn.com/nfl/game/_/gameId/401220139,Ryan FitzpatrickMIA_Sun 11/29,Miami Dolphins
+Ryan Fitzpatrick,Sun 11/22,@DEN,L20-13,12,18,117,66.7,6.5,0,1,25,0,61.6,30.4,https://www.espn.com/nfl/game/_/gameId/401220214,Ryan FitzpatrickMIA_Sun 11/22,Miami Dolphins
+Ryan Fitzpatrick,Sun 10/18,vsNYJ,W24-0,18,27,191,66.7,7.1,3,2,43,2,93.3,39.5,https://www.espn.com/nfl/game/_/gameId/401220124,Ryan FitzpatrickMIA_Sun 10/18,Miami Dolphins
+Ryan Fitzpatrick,Sun 10/11,@SF,W43-17,22,28,350,78.6,12.5,3,0,70,2,154.5,99.4,https://www.espn.com/nfl/game/_/gameId/401220358,Ryan FitzpatrickMIA_Sun 10/11,Miami Dolphins
+Ryan Fitzpatrick,Sun 10/4,vsSEA,L31-23,29,45,315,64.4,7.0,0,2,26,1,66.4,68.8,https://www.espn.com/nfl/game/_/gameId/401220128,Ryan FitzpatrickMIA_Sun 10/4,Miami Dolphins
+Ryan Fitzpatrick,Thu 9/24,@JAX,W31-13,18,20,160,90.0,8.0,2,0,20,1,133.3,96.9,https://www.espn.com/nfl/game/_/gameId/401220201,Ryan FitzpatrickMIA_Thu 9/24,Miami Dolphins
+Ryan Fitzpatrick,Sun 9/20,vsBUF,L31-28,31,47,328,66.0,7.0,2,0,27,3,100.3,70.4,https://www.espn.com/nfl/game/_/gameId/401220122,Ryan FitzpatrickMIA_Sun 9/20,Miami Dolphins
+Ryan Fitzpatrick,Sun 9/13,@NE,L21-11,20,30,191,66.7,6.4,0,3,21,1,44.6,60.6,https://www.espn.com/nfl/game/_/gameId/401220131,Ryan FitzpatrickMIA_Sun 9/13,Miami Dolphins
+Mitchell Trubisky,Sun 1/3,vsGB,L35-16,33,42,252,78.6,6.0,0,1,53,1,81.7,84.7,https://www.espn.com/nfl/game/_/gameId/401220275,Mitchell TrubiskyCHI_Sun 1/3,Chicago Bears
+Mitchell Trubisky,Sun 12/27,@JAX,W41-17,24,35,265,68.6,7.6,2,1,30,1,97.9,81.8,https://www.espn.com/nfl/game/_/gameId/401220199,Mitchell TrubiskyCHI_Sun 12/27,Chicago Bears
+Mitchell Trubisky,Sun 12/20,@MIN,W33-27,15,21,202,71.4,9.6,1,1,35,1,97.7,63.4,https://www.espn.com/nfl/game/_/gameId/401220298,Mitchell TrubiskyCHI_Sun 12/20,Chicago Bears
+Mitchell Trubisky,Sun 12/13,vsHOU,W36-7,24,33,267,72.7,8.1,3,0,35,3,126.7,63.6,https://www.espn.com/nfl/game/_/gameId/401220279,Mitchell TrubiskyCHI_Sun 12/13,Chicago Bears
+Mitchell Trubisky,Sun 12/6,vsDET,L34-30,26,34,267,76.5,7.9,1,0,21,2,108.3,39.5,https://www.espn.com/nfl/game/_/gameId/401220274,Mitchell TrubiskyCHI_Sun 12/6,Chicago Bears
+Mitchell Trubisky,Sun 11/29,@GB,L41-25,26,46,242,56.5,5.3,3,2,20,3,74.7,43.0,https://www.espn.com/nfl/game/_/gameId/401220290,Mitchell TrubiskyCHI_Sun 11/29,Chicago Bears
+Mitchell Trubisky,Sun 11/1,vsNO,L26-23 OT,0,0,0,0.0,0.0,0,0,0,0,0.0,10.1,https://www.espn.com/nfl/game/_/gameId/401220277,Mitchell TrubiskyCHI_Sun 11/1,Chicago Bears
+Mitchell Trubisky,Sun 9/27,@ATL,W30-26,13,22,128,59.1,5.8,1,1,19,2,71.8,56.7,https://www.espn.com/nfl/game/_/gameId/401220309,Mitchell TrubiskyCHI_Sun 9/27,Chicago Bears
+Mitchell Trubisky,Sun 9/20,vsNYG,W17-13,18,28,190,64.3,6.8,2,2,28,4,78.0,56.0,https://www.espn.com/nfl/game/_/gameId/401220281,Mitchell TrubiskyCHI_Sun 9/20,Chicago Bears
+Mitchell Trubisky,Sun 9/13,@DET,W27-23,20,36,242,55.6,6.7,3,0,27,1,104.2,46.8,https://www.espn.com/nfl/game/_/gameId/401220282,Mitchell TrubiskyCHI_Sun 9/13,Chicago Bears
+Dak Prescott,Sun 10/11,vsNYG,W37-34,14,21,166,66.7,7.9,0,1,26,1,70.7,68.4,https://www.espn.com/nfl/game/_/gameId/401220242,Dak PrescottDAL_Sun 10/11,Dallas Cowboys
+Dak Prescott,Sun 10/4,vsCLE,L49-38,41,58,502,70.7,8.7,4,1,43,3,112.9,73.3,https://www.espn.com/nfl/game/_/gameId/401220247,Dak PrescottDAL_Sun 10/4,Dallas Cowboys
+Dak Prescott,Sun 9/27,@SEA,L38-31,37,57,472,64.9,8.3,3,2,52,2,93.6,79.8,https://www.espn.com/nfl/game/_/gameId/401220363,Dak PrescottDAL_Sun 9/27,Dallas Cowboys
+Dak Prescott,Sun 9/20,vsATL,W40-39,34,47,450,72.3,9.6,1,0,58,1,109.4,83.5,https://www.espn.com/nfl/game/_/gameId/401220249,Dak PrescottDAL_Sun 9/20,Dallas Cowboys
+Dak Prescott,Sun 9/13,@LAR,L20-17,25,39,266,64.1,6.8,1,0,33,3,92.5,81.3,https://www.espn.com/nfl/game/_/gameId/401220347,Dak PrescottDAL_Sun 9/13,Dallas Cowboys
+Nick Foles,Sun 12/27,@JAX,W41-17,0,1,0,0.0,0.0,0,0,0,0,39.6,0.2,https://www.espn.com/nfl/game/_/gameId/401220199,Nick FolesCHI_Sun 12/27,Chicago Bears
+Nick Foles,Mon 11/16,vsMIN,L19-13,15,26,106,57.7,4.1,0,1,24,2,51.1,12.3,https://www.espn.com/nfl/game/_/gameId/401220276,Nick FolesCHI_Mon 11/16,Chicago Bears
+Nick Foles,Sun 11/8,@TEN,L24-17,36,52,335,69.2,6.4,2,0,34,3,99.4,36.5,https://www.espn.com/nfl/game/_/gameId/401220207,Nick FolesCHI_Sun 11/8,Chicago Bears
+Nick Foles,Sun 11/1,vsNO,L26-23 OT,28,41,272,68.3,6.6,2,1,50,5,92.7,62.3,https://www.espn.com/nfl/game/_/gameId/401220277,Nick FolesCHI_Sun 11/1,Chicago Bears
+Nick Foles,Mon 10/26,@LAR,L24-10,28,40,261,70.0,6.5,0,2,42,4,66.8,43.9,https://www.espn.com/nfl/game/_/gameId/401220351,Nick FolesCHI_Mon 10/26,Chicago Bears
+Nick Foles,Sun 10/18,@CAR,W23-16,23,39,198,59.0,5.1,1,1,23,0,70.2,64.8,https://www.espn.com/nfl/game/_/gameId/401220317,Nick FolesCHI_Sun 10/18,Chicago Bears
+Nick Foles,Thu 10/8,vsTB,W20-19,30,42,243,71.4,5.8,1,1,25,3,83.7,40.5,https://www.espn.com/nfl/game/_/gameId/401220278,Nick FolesCHI_Thu 10/8,Chicago Bears
+Nick Foles,Sun 10/4,vsIND,L19-11,26,42,249,61.9,5.9,1,1,33,1,76.4,31.1,https://www.espn.com/nfl/game/_/gameId/401220280,Nick FolesCHI_Sun 10/4,Chicago Bears
+Nick Foles,Sun 9/27,@ATL,W30-26,16,29,188,55.2,6.5,3,1,37,0,95.2,60.8,https://www.espn.com/nfl/game/_/gameId/401220309,Nick FolesCHI_Sun 9/27,Chicago Bears
+Tua Tagovailoa,Sun 1/3,@BUF,L56-26,35,58,361,60.3,6.2,1,3,31,1,62.5,20.2,https://www.espn.com/nfl/game/_/gameId/401220114,Tua TagovailoaMIA_Sun 1/3,Miami Dolphins
+Tua Tagovailoa,Sat 12/26,@LV,W26-25,17,22,94,77.3,4.3,1,0,14,3,99.4,64.4,https://www.espn.com/nfl/game/_/gameId/401220230,Tua TagovailoaMIA_Sat 12/26,Miami Dolphins
+Tua Tagovailoa,Sun 12/20,vsNE,W22-12,20,26,145,76.9,5.6,0,1,15,2,73.4,56.8,https://www.espn.com/nfl/game/_/gameId/401220123,Tua TagovailoaMIA_Sun 12/20,Miami Dolphins
+Tua Tagovailoa,Sun 12/13,vsKC,L33-27,28,48,316,58.3,6.6,2,1,29,4,83.3,30.3,https://www.espn.com/nfl/game/_/gameId/401220125,Tua TagovailoaMIA_Sun 12/13,Miami Dolphins
+Tua Tagovailoa,Sun 12/6,vsCIN,W19-7,26,39,296,66.7,7.6,1,0,35,0,97.8,74.5,https://www.espn.com/nfl/game/_/gameId/401220129,Tua TagovailoaMIA_Sun 12/6,Miami Dolphins
+Tua Tagovailoa,Sun 11/22,@DEN,L20-13,11,20,83,55.0,4.2,1,0,13,6,81.9,23.0,https://www.espn.com/nfl/game/_/gameId/401220214,Tua TagovailoaMIA_Sun 11/22,Miami Dolphins
+Tua Tagovailoa,Sun 11/15,vsLAC,W29-21,15,25,169,60.0,6.8,2,0,23,0,106.9,66.6,https://www.espn.com/nfl/game/_/gameId/401220126,Tua TagovailoaMIA_Sun 11/15,Miami Dolphins
+Tua Tagovailoa,Sun 11/8,@ARI,W34-31,20,28,248,71.4,8.9,2,0,35,3,122.3,87.3,https://www.espn.com/nfl/game/_/gameId/401220342,Tua TagovailoaMIA_Sun 11/8,Miami Dolphins
+Tua Tagovailoa,Sun 11/1,vsLAR,W28-17,12,22,93,54.5,4.2,1,0,15,1,80.3,29.5,https://www.espn.com/nfl/game/_/gameId/401220127,Tua TagovailoaMIA_Sun 11/1,Miami Dolphins
+Tua Tagovailoa,Sun 10/18,vsNYJ,W24-0,2,2,9,100.0,4.5,0,0,7,0,85.4,94.2,https://www.espn.com/nfl/game/_/gameId/401220124,Tua TagovailoaMIA_Sun 10/18,Miami Dolphins
+Alex Smith,Sun 1/3,@PHI,W20-14,22,32,162,68.8,5.1,2,2,18,3,75.3,31.2,https://www.espn.com/nfl/game/_/gameId/401220260,Alex SmithWSH_Sun 1/3,Washington
+Alex Smith,Sun 12/13,@SF,W23-15,8,19,57,42.1,3.0,0,1,13,1,27.7,8.0,https://www.espn.com/nfl/game/_/gameId/401220356,Alex SmithWSH_Sun 12/13,Washington
+Alex Smith,Mon 12/7,@PIT,W23-17,31,46,296,67.4,6.4,1,0,31,3,92.3,40.0,https://www.espn.com/nfl/game/_/gameId/401220176,Alex SmithWSH_Mon 12/7,Washington
+Alex Smith,Thu 11/26,@DAL,W41-16,19,26,149,73.1,5.7,1,1,20,3,83.7,24.8,https://www.espn.com/nfl/game/_/gameId/401220244,Alex SmithWSH_Thu 11/26,Washington
+Alex Smith,Sun 11/22,vsCIN,W20-9,17,25,166,68.0,6.6,1,1,42,2,83.1,33.5,https://www.espn.com/nfl/game/_/gameId/401220272,Alex SmithWSH_Sun 11/22,Washington
+Alex Smith,Sun 11/15,@DET,L30-27,38,55,390,69.1,7.1,0,0,27,2,89.2,71.4,https://www.espn.com/nfl/game/_/gameId/401220289,Alex SmithWSH_Sun 11/15,Washington
+Alex Smith,Sun 11/8,vsNYG,L23-20,24,32,325,75.0,10.2,1,3,68,2,78.3,37.6,https://www.espn.com/nfl/game/_/gameId/401220267,Alex SmithWSH_Sun 11/8,Washington
+Alex Smith,Sun 10/11,vsLAR,L30-10,9,17,37,52.9,2.2,0,0,12,6,58.7,4.3,https://www.espn.com/nfl/game/_/gameId/401220269,Alex SmithWSH_Sun 10/11,Washington
+Dwayne Haskins Jr.,Sun 12/27,vsCAR,L20-13,14,28,154,50.0,5.5,0,2,50,2,36.9,4.1,https://www.espn.com/nfl/game/_/gameId/401220273,Dwayne Haskins Jr.WSH_Sun 12/27,Washington
+Dwayne Haskins Jr.,Sun 12/20,vsSEA,L20-15,38,55,295,69.1,5.4,1,2,30,4,72.9,58.5,https://www.espn.com/nfl/game/_/gameId/401220270,Dwayne Haskins Jr.WSH_Sun 12/20,Washington
+Dwayne Haskins Jr.,Sun 12/13,@SF,W23-15,7,12,51,58.3,4.3,0,0,13,1,68.4,30.7,https://www.espn.com/nfl/game/_/gameId/401220356,Dwayne Haskins Jr.WSH_Sun 12/13,Washington
+Dwayne Haskins Jr.,Sun 10/4,vsBAL,L31-17,32,45,314,71.1,7.0,0,0,40,3,90.4,37.1,https://www.espn.com/nfl/game/_/gameId/401220271,Dwayne Haskins Jr.WSH_Sun 10/4,Washington
+Dwayne Haskins Jr.,Sun 9/27,@CLE,L34-20,21,37,224,56.8,6.1,2,3,33,3,58.8,29.9,https://www.espn.com/nfl/game/_/gameId/401220168,Dwayne Haskins Jr.WSH_Sun 9/27,Washington
+Dwayne Haskins Jr.,Sun 9/20,@ARI,L30-15,19,33,223,57.6,6.8,1,0,30,4,88.3,10.0,https://www.espn.com/nfl/game/_/gameId/401220340,Dwayne Haskins Jr.WSH_Sun 9/20,Washington
+Dwayne Haskins Jr.,Sun 9/13,vsPHI,W27-17,17,31,178,54.8,5.7,1,0,21,3,82.5,44.5,https://www.espn.com/nfl/game/_/gameId/401220268,Dwayne Haskins Jr.WSH_Sun 9/13,Washington
+Jimmy Garoppolo,Sun 11/1,@SEA,L37-27,11,16,84,68.8,5.3,0,1,19,3,55.2,16.2,https://www.espn.com/nfl/game/_/gameId/401220361,Jimmy GaroppoloSF_Sun 11/1,San Francisco 49ers
+Jimmy Garoppolo,Sun 10/25,@NE,W33-6,20,25,277,80.0,11.1,0,2,35,1,79.5,73.8,https://www.espn.com/nfl/game/_/gameId/401220136,Jimmy GaroppoloSF_Sun 10/25,San Francisco 49ers
+Jimmy Garoppolo,Sun 10/18,vsLAR,W24-16,23,33,268,69.7,8.1,3,0,44,0,124.3,93.2,https://www.espn.com/nfl/game/_/gameId/401220353,Jimmy GaroppoloSF_Sun 10/18,San Francisco 49ers
+Jimmy Garoppolo,Sun 10/11,vsMIA,L43-17,7,17,77,41.2,4.5,0,2,20,3,15.7,2.1,https://www.espn.com/nfl/game/_/gameId/401220358,Jimmy GaroppoloSF_Sun 10/11,San Francisco 49ers
+Jimmy Garoppolo,Sun 9/20,@NYJ,W31-13,14,16,131,87.5,8.2,2,0,18,1,140.4,99.5,https://www.espn.com/nfl/game/_/gameId/401220144,Jimmy GaroppoloSF_Sun 9/20,San Francisco 49ers
+Jimmy Garoppolo,Sun 9/13,vsARI,L24-20,19,33,259,57.6,7.8,2,0,76,3,103.0,37.2,https://www.espn.com/nfl/game/_/gameId/401220352,Jimmy GaroppoloSF_Sun 9/13,San Francisco 49ers
+Mike Glennon,Sun 1/3,@IND,L28-14,26,42,261,61.9,6.2,2,0,21,6,95.4,30.7,https://www.espn.com/nfl/game/_/gameId/401220187,Mike GlennonJAX_Sun 1/3,Jacksonville Jaguars
+Mike Glennon,Sun 12/27,vsCHI,L41-17,24,37,211,64.9,5.7,2,2,34,1,75.4,53.3,https://www.espn.com/nfl/game/_/gameId/401220199,Mike GlennonJAX_Sun 12/27,Jacksonville Jaguars
+Mike Glennon,Sun 12/13,vsTEN,L31-10,13,23,85,56.5,3.7,0,1,22,0,46.5,23.5,https://www.espn.com/nfl/game/_/gameId/401220196,Mike GlennonJAX_Sun 12/13,Jacksonville Jaguars
+Mike Glennon,Sun 12/6,@MIN,L27-24 OT,28,42,280,66.7,6.7,1,2,34,2,73.5,34.8,https://www.espn.com/nfl/game/_/gameId/401220303,Mike GlennonJAX_Sun 12/6,Jacksonville Jaguars
+Mike Glennon,Sun 11/29,vsCLE,L27-25,20,35,235,57.1,6.7,2,0,46,0,96.7,43.3,https://www.espn.com/nfl/game/_/gameId/401220197,Mike GlennonJAX_Sun 11/29,Jacksonville Jaguars
+Jalen Hurts,Sun 1/3,vsWSH,L20-14,7,20,72,35.0,3.6,0,1,30,1,25.4,42.5,https://www.espn.com/nfl/game/_/gameId/401220260,Jalen HurtsPHI_Sun 1/3,Philadelphia Eagles
+Jalen Hurts,Sun 12/27,@DAL,L37-17,21,39,342,53.8,8.8,1,2,81,3,70.7,19.4,https://www.espn.com/nfl/game/_/gameId/401220243,Jalen HurtsPHI_Sun 12/27,Philadelphia Eagles
+Jalen Hurts,Sun 12/20,@ARI,L33-26,24,44,338,54.5,7.7,3,0,42,6,102.3,60.6,https://www.espn.com/nfl/game/_/gameId/401220339,Jalen HurtsPHI_Sun 12/20,Philadelphia Eagles
+Jalen Hurts,Sun 12/13,vsNO,W24-21,17,30,167,56.7,5.6,1,0,39,0,83.6,60.5,https://www.espn.com/nfl/game/_/gameId/401220265,Jalen HurtsPHI_Sun 12/13,Philadelphia Eagles
+Jalen Hurts,Sun 12/6,@GB,L30-16,5,12,109,41.7,9.1,1,1,34,3,67.7,30.2,https://www.espn.com/nfl/game/_/gameId/401220297,Jalen HurtsPHI_Sun 12/6,Philadelphia Eagles
+Jalen Hurts,Mon 11/30,vsSEA,L23-17,1,1,6,100.0,6.0,0,0,6,0,91.7,32.9,https://www.espn.com/nfl/game/_/gameId/401220262,Jalen HurtsPHI_Mon 11/30,Philadelphia Eagles
+Jalen Hurts,Sun 11/22,@CLE,L22-17,0,0,0,0.0,0.0,0,0,0,0,0.0,68.7,https://www.espn.com/nfl/game/_/gameId/401220167,Jalen HurtsPHI_Sun 11/22,Philadelphia Eagles
+Jalen Hurts,Sun 11/15,@NYG,L27-17,0,0,0,0.0,0.0,0,0,0,0,0.0,0.0,https://www.espn.com/nfl/game/_/gameId/401220251,Jalen HurtsPHI_Sun 11/15,Philadelphia Eagles
+Jalen Hurts,Sun 11/1,vsDAL,W23-9,1,1,9,100.0,9.0,0,0,9,0,104.2,27.8,https://www.espn.com/nfl/game/_/gameId/401220258,Jalen HurtsPHI_Sun 11/1,Philadelphia Eagles
+Jalen Hurts,Thu 10/22,vsNYG,W22-21,0,0,0,0.0,0.0,0,0,0,0,0.0,2.9,https://www.espn.com/nfl/game/_/gameId/401220259,Jalen HurtsPHI_Thu 10/22,Philadelphia Eagles
+Jalen Hurts,Sun 10/18,vsBAL,L30-28,0,0,0,0.0,0.0,0,0,0,0,0.0,57.0,https://www.espn.com/nfl/game/_/gameId/401220263,Jalen HurtsPHI_Sun 10/18,Philadelphia Eagles
+Jalen Hurts,Sun 10/11,@PIT,L38-29,1,1,18,100.0,18.0,0,0,18,0,118.8,99.8,https://www.espn.com/nfl/game/_/gameId/401220175,Jalen HurtsPHI_Sun 10/11,Philadelphia Eagles
+Jalen Hurts,Sun 10/4,@SF,W25-20,0,0,0,0.0,0.0,0,0,0,0,0.0,35.1,https://www.espn.com/nfl/game/_/gameId/401220355,Jalen HurtsPHI_Sun 10/4,Philadelphia Eagles
+Jalen Hurts,Sun 9/27,vsCIN,T23-23 OT,0,0,0,0.0,0.0,0,0,0,0,0.0,45.5,https://www.espn.com/nfl/game/_/gameId/401220264,Jalen HurtsPHI_Sun 9/27,Philadelphia Eagles
+Taysom Hill,Sun 1/3,@CAR,W33-7,0,0,0,0.0,0.0,0,0,0,0,0.0,98.6,https://www.espn.com/nfl/game/_/gameId/401220315,Taysom HillNO_Sun 1/3,New Orleans Saints
+Taysom Hill,Fri 12/25,vsMIN,W52-33,2,2,8,100.0,4.0,0,0,7,0,83.3,77.8,https://www.espn.com/nfl/game/_/gameId/401220324,Taysom HillNO_Fri 12/25,New Orleans Saints
+Taysom Hill,Sun 12/20,vsKC,L32-29,0,0,0,0.0,0.0,0,0,0,0,0.0,65.3,https://www.espn.com/nfl/game/_/gameId/401220325,Taysom HillNO_Sun 12/20,New Orleans Saints
+Taysom Hill,Sun 12/13,@PHI,L24-21,28,38,291,73.7,7.7,2,1,37,5,102.0,66.5,https://www.espn.com/nfl/game/_/gameId/401220265,Taysom HillNO_Sun 12/13,New Orleans Saints
+Taysom Hill,Sun 12/6,@ATL,W21-16,27,37,232,73.0,6.3,2,0,21,2,107.0,55.6,https://www.espn.com/nfl/game/_/gameId/401220307,Taysom HillNO_Sun 12/6,New Orleans Saints
+Taysom Hill,Sun 11/29,@DEN,W31-3,9,16,78,56.3,4.9,0,1,24,3,43.2,29.1,https://www.espn.com/nfl/game/_/gameId/401220215,Taysom HillNO_Sun 11/29,New Orleans Saints
+Taysom Hill,Sun 11/22,vsATL,W24-9,18,23,233,78.3,10.1,0,0,44,3,108.9,66.8,https://www.espn.com/nfl/game/_/gameId/401220321,Taysom HillNO_Sun 11/22,New Orleans Saints
+Taysom Hill,Sun 11/15,vsSF,W27-13,0,0,0,0.0,0.0,0,0,0,1,0.0,3.7,https://www.espn.com/nfl/game/_/gameId/401220327,Taysom HillNO_Sun 11/15,New Orleans Saints
+Taysom Hill,Sun 11/8,@TB,W38-3,2,2,48,100.0,24.0,0,0,29,0,118.8,100.0,https://www.espn.com/nfl/game/_/gameId/401220330,Taysom HillNO_Sun 11/8,New Orleans Saints
+Taysom Hill,Sun 11/1,@CHI,W26-23 OT,0,0,0,0.0,0.0,0,0,0,0,0.0,94.5,https://www.espn.com/nfl/game/_/gameId/401220277,Taysom HillNO_Sun 11/1,New Orleans Saints
+Taysom Hill,Sun 10/25,vsCAR,W27-24,1,1,0,100.0,0.0,0,0,0,0,79.2,89.1,https://www.espn.com/nfl/game/_/gameId/401220322,Taysom HillNO_Sun 10/25,New Orleans Saints
+Taysom Hill,Mon 10/12,vsLAC,W30-27 OT,0,1,0,0.0,0.0,0,0,0,0,39.6,99.9,https://www.espn.com/nfl/game/_/gameId/401220326,Taysom HillNO_Mon 10/12,New Orleans Saints
+Taysom Hill,Sun 10/4,@DET,W35-29,0,0,0,0.0,0.0,0,0,0,0,0.0,0.0,https://www.espn.com/nfl/game/_/gameId/401220285,Taysom HillNO_Sun 10/4,New Orleans Saints
+Taysom Hill,Sun 9/27,vsGB,L37-30,0,0,0,0.0,0.0,0,0,0,0,0.0,0.0,https://www.espn.com/nfl/game/_/gameId/401220323,Taysom HillNO_Sun 9/27,New Orleans Saints
+Taysom Hill,Mon 9/21,@LV,L34-24,0,0,0,0.0,0.0,0,0,0,0,0.0,94.1,https://www.espn.com/nfl/game/_/gameId/401220231,Taysom HillNO_Mon 9/21,New Orleans Saints
+Taysom Hill,Sun 9/13,vsTB,W34-23,1,1,38,100.0,38.0,0,0,38,0,118.8,49.9,https://www.espn.com/nfl/game/_/gameId/401220369,Taysom HillNO_Sun 9/13,New Orleans Saints
+Brandon Allen,Sun 1/3,vsBAL,L38-3,6,21,48,28.6,2.3,0,2,21,0,0.0,3.1,https://www.espn.com/nfl/game/_/gameId/401220154,Brandon AllenCIN_Sun 1/3,Cincinnati Bengals
+Brandon Allen,Sun 12/27,@HOU,W37-31,29,37,371,78.4,10.0,2,0,42,0,126.5,85.5,https://www.espn.com/nfl/game/_/gameId/401220182,Brandon AllenCIN_Sun 12/27,Cincinnati Bengals
+Brandon Allen,Sun 12/13,vsDAL,L30-7,27,36,217,75.0,6.0,1,0,21,0,99.0,81.8,https://www.espn.com/nfl/game/_/gameId/401220159,Brandon AllenCIN_Sun 12/13,Cincinnati Bengals
+Brandon Allen,Sun 12/6,@MIA,L19-7,11,19,153,57.9,8.1,1,1,72,5,79.5,25.4,https://www.espn.com/nfl/game/_/gameId/401220129,Brandon AllenCIN_Sun 12/6,Cincinnati Bengals
+Brandon Allen,Sun 11/29,vsNYG,L19-17,17,29,136,58.6,4.7,1,1,18,2,67.6,10.9,https://www.espn.com/nfl/game/_/gameId/401220160,Brandon AllenCIN_Sun 11/29,Cincinnati Bengals
+Joe Flacco,Sun 11/22,@LAC,L34-28,15,30,205,50.0,6.8,2,1,49,1,80.6,26.0,https://www.espn.com/nfl/game/_/gameId/401220238,Joe FlaccoNYJ_Sun 11/22,New York Jets
+Joe Flacco,Mon 11/9,vsNE,L30-27,18,25,262,72.0,10.5,3,1,50,1,128.7,96.7,https://www.espn.com/nfl/game/_/gameId/401220140,Joe FlaccoNYJ_Mon 11/9,New York Jets
+Joe Flacco,Sun 10/18,@MIA,L24-0,21,44,186,47.7,4.2,0,1,22,3,50.0,14.3,https://www.espn.com/nfl/game/_/gameId/401220124,Joe FlaccoNYJ_Sun 10/18,New York Jets
+Joe Flacco,Sun 10/11,vsARI,L30-10,18,33,195,54.5,5.9,1,0,52,2,82.3,65.9,https://www.espn.com/nfl/game/_/gameId/401220143,Joe FlaccoNYJ_Sun 10/11,New York Jets
+Joe Flacco,Thu 10/1,vsDEN,L37-28,2,2,16,100.0,8.0,0,0,11,0,100.0,15.5,https://www.espn.com/nfl/game/_/gameId/401220141,Joe FlaccoNYJ_Thu 10/1,New York Jets
+C.J. Beathard,Sun 1/3,vsSEA,L26-23,25,37,273,67.6,7.4,1,0,45,3,98.1,68.2,https://www.espn.com/nfl/game/_/gameId/401220354,C.J. BeathardSF_Sun 1/3,San Francisco 49ers
+C.J. Beathard,Sat 12/26,@ARI,W20-12,13,22,182,59.1,8.3,3,0,27,3,125.4,30.2,https://www.espn.com/nfl/game/_/gameId/401220337,C.J. BeathardSF_Sat 12/26,San Francisco 49ers
+C.J. Beathard,Sun 12/20,@DAL,L41-33,5,7,100,71.4,14.3,1,0,49,0,153.3,96.1,https://www.espn.com/nfl/game/_/gameId/401220246,C.J. BeathardSF_Sun 12/20,San Francisco 49ers
+C.J. Beathard,Sun 11/15,@NO,L27-13,0,1,0,0.0,0.0,0,0,0,0,39.6,7.9,https://www.espn.com/nfl/game/_/gameId/401220327,C.J. BeathardSF_Sun 11/15,San Francisco 49ers
+C.J. Beathard,Sun 10/11,vsMIA,L43-17,9,18,94,50.0,5.2,1,0,19,2,84.0,17.2,https://www.espn.com/nfl/game/_/gameId/401220358,C.J. BeathardSF_Sun 10/11,San Francisco 49ers
+C.J. Beathard,Sun 10/4,vsPHI,L25-20,14,19,138,73.7,7.3,0,0,20,1,93.7,70.4,https://www.espn.com/nfl/game/_/gameId/401220355,C.J. BeathardSF_Sun 10/4,San Francisco 49ers
+Jake Luton,Sun 11/22,vsPIT,L27-3,16,37,151,43.2,4.1,0,4,19,2,15.5,11.6,https://www.espn.com/nfl/game/_/gameId/401220198,Jake LutonJAX_Sun 11/22,Jacksonville Jaguars
+Jake Luton,Sun 11/15,@GB,L24-20,18,35,169,51.4,4.8,1,1,21,3,62.7,30.0,https://www.espn.com/nfl/game/_/gameId/401220295,Jake LutonJAX_Sun 11/15,Jacksonville Jaguars
+Jake Luton,Sun 11/8,vsHOU,L27-25,26,38,304,68.4,8.0,1,1,73,2,90.2,77.6,https://www.espn.com/nfl/game/_/gameId/401220194,Jake LutonJAX_Sun 11/8,Jacksonville Jaguars
+Kyle Allen,Sun 11/8,vsNYG,L23-20,5,7,62,71.4,8.9,0,0,21,0,98.5,61.3,https://www.espn.com/nfl/game/_/gameId/401220267,Kyle AllenWSH_Sun 11/8,Washington
+Kyle Allen,Sun 10/25,vsDAL,W25-3,15,25,194,60.0,7.8,2,0,52,2,111.1,72.0,https://www.espn.com/nfl/game/_/gameId/401220266,Kyle AllenWSH_Sun 10/25,Washington
+Kyle Allen,Sun 10/18,@NYG,L20-19,31,42,280,73.8,6.7,2,1,29,3,97.3,76.9,https://www.espn.com/nfl/game/_/gameId/401220252,Kyle AllenWSH_Sun 10/18,Washington
+Kyle Allen,Sun 10/11,vsLAR,L30-10,9,13,74,69.2,5.7,0,0,18,2,83.5,75.6,https://www.espn.com/nfl/game/_/gameId/401220269,Kyle AllenWSH_Sun 10/11,Washington
+Jeff Driskel,Thu 10/1,@NYJ,W37-28,0,0,0,0.0,0.0,0,0,0,0,0.0,99.1,https://www.espn.com/nfl/game/_/gameId/401220141,Jeff DriskelDEN_Thu 10/1,Denver Broncos
+Jeff Driskel,Sun 9/27,vsTB,L28-10,17,30,176,56.7,5.9,1,1,28,5,71.0,16.8,https://www.espn.com/nfl/game/_/gameId/401220216,Jeff DriskelDEN_Sun 9/27,Denver Broncos
+Jeff Driskel,Sun 9/20,@PIT,L26-21,18,34,256,52.9,7.5,2,1,45,6,84.9,62.3,https://www.espn.com/nfl/game/_/gameId/401220177,Jeff DriskelDEN_Sun 9/20,Denver Broncos
+Colt McCoy,Sun 12/20,vsCLE,L20-6,19,31,221,61.3,7.1,0,0,35,1,82.9,56.8,https://www.espn.com/nfl/game/_/gameId/401220255,Colt McCoyNYG_Sun 12/20,New York Giants
+Colt McCoy,Sun 12/13,vsARI,L26-7,2,3,18,66.7,6.0,0,0,14,2,82.6,0.1,https://www.espn.com/nfl/game/_/gameId/401220253,Colt McCoyNYG_Sun 12/13,New York Giants
+Colt McCoy,Sun 12/6,@SEA,W17-12,13,22,105,59.1,4.8,1,1,22,2,67.4,34.7,https://www.espn.com/nfl/game/_/gameId/401220364,Colt McCoyNYG_Sun 12/6,New York Giants
+Colt McCoy,Sun 11/29,@CIN,W19-17,6,10,31,60.0,3.1,0,0,15,0,65.0,23.8,https://www.espn.com/nfl/game/_/gameId/401220160,Colt McCoyNYG_Sun 11/29,New York Giants
+P.J. Walker,Sun 1/3,vsNO,L33-7,5,14,95,35.7,6.8,0,3,31,2,20.5,0.9,https://www.espn.com/nfl/game/_/gameId/401220315,P.J. WalkerCAR_Sun 1/3,Carolina Panthers
+P.J. Walker,Sun 11/22,vsDET,W20-0,24,34,258,70.6,7.6,1,2,52,1,77.8,24.5,https://www.espn.com/nfl/game/_/gameId/401220318,P.J. WalkerCAR_Sun 11/22,Carolina Panthers
+P.J. Walker,Sun 11/15,vsTB,L46-23,2,4,12,50.0,3.0,0,0,17,1,56.3,1.4,https://www.espn.com/nfl/game/_/gameId/401220368,P.J. WalkerCAR_Sun 11/15,Carolina Panthers
+P.J. Walker,Thu 10/29,vsATL,L25-17,1,4,3,25.0,0.8,0,0,3,0,39.6,1.7,https://www.espn.com/nfl/game/_/gameId/401220314,P.J. WalkerCAR_Thu 10/29,Carolina Panthers
+Mason Rudolph,Sun 1/3,@CLE,L24-22,22,39,315,56.4,8.1,2,1,47,1,89.2,79.5,https://www.espn.com/nfl/game/_/gameId/401220164,Mason RudolphPIT_Sun 1/3,Pittsburgh Steelers
+Mason Rudolph,Sun 11/22,@JAX,W27-3,0,0,0,0.0,0.0,0,0,0,0,0.0,-,https://www.espn.com/nfl/game/_/gameId/401220198,Mason RudolphPIT_Sun 11/22,Pittsburgh Steelers
+Mason Rudolph,Sun 11/8,@DAL,W24-19,2,3,3,66.7,1.0,0,0,2,0,70.1,73.0,https://www.espn.com/nfl/game/_/gameId/401220248,Mason RudolphPIT_Sun 11/8,Pittsburgh Steelers
+Mason Rudolph,Sun 10/18,vsCLE,W38-7,1,1,6,100.0,6.0,0,0,6,0,91.7,0.3,https://www.espn.com/nfl/game/_/gameId/401220172,Mason RudolphPIT_Sun 10/18,Pittsburgh Steelers
+Brett Rypien,Thu 10/1,@NYJ,W37-28,19,31,242,61.3,7.8,2,3,48,0,67.6,60.8,https://www.espn.com/nfl/game/_/gameId/401220141,Brett RypienDEN_Thu 10/1,Denver Broncos
+Brett Rypien,Sun 9/27,vsTB,L28-10,8,9,53,88.9,5.9,0,1,22,1,51.6,34.4,https://www.espn.com/nfl/game/_/gameId/401220216,Brett RypienDEN_Sun 9/27,Denver Broncos
